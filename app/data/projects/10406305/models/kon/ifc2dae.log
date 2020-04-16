@@ -1,0 +1,278 @@
+## CONVERSION TOOK 173.878 SECONDS ##
+
+IfcOpenShell IfcConvert 0.6.0b0 (OCC 7.3.0)
+Scanning file...
+#1787#3553#5292#7109#8904#10687#12482#14270#16083#17868#19779#21542#23503#25458#27209#29165#31130#32881#34670#36425#38237#40035#41829#43619#45384#47196#48995#50779#52571#54361#56136#57952#59721#61503#63274#65077#66866#68669#70455#72247#74215#76164#78076#79931#81705#83479#85251#87044#88831#90617#92399#94168#95973#97747#99552#101352#103143#104928#106726#108523#110301#112079#113882#115687#117484#119417#121208#123003#124784#126568#128357#130139#131932#133731#135529#137312#139087#140913#142735#144546#146326#148121#149973#151731#153492#155239#157004#158761#160415#162064#163714#165382#167060#168846#170638#172546#174451#176385#178319#180252#182197#183913#185630#187450#189060#190756#192459#194199#196018#198015#199807#201587#203417#205216#206979#208746#210550#212356#214160#215942#217729#219520#221309#223086#224874#226665#228463#230249#232039#233804#235729#237711#239693#241684#243678#245676#247662#249654#251469#253351#255076#256825#258492#260241#261971#263658#265407#267074#268824#270573#272240#273989#275724#277405#279154#280826#282571#284320#285987#287736#289478#291152#292902#294580#296318#298067#299734#301484#303232#304900#306649#308333#310065#311815#313482#315231#316981#318648#320397#322088#323814#325563#327230#328979#330728#332395#334144#335841#337561#339310#340977#342727#344476#346143#347893#349596#351309#353059#354725#356475#358225#359891#361641#363322#365100#366906#368703#370503#372301#374064#375867#377663#379436#381318#383302#385412#387290#389079#390876#392694#394484#396256#398051#399817#401632#403440#405227#407010#408793#410574#412370#414143#415951#417742#419535#421315#423049#424846#426642#976759#430254#432069#433863#435629#437442#439184#440975#442750#444551#446337#448135#449918#451703#453495#455278#457053#458854#460651#462440#464220#465961#467764#469559#471355#473150#474900#476430#478076#975373#481325#483098#484867#486635#488263#489866#491669#493459#495219#497013#498803#500578#502358#504150#505868#507685#509186#511140#513065#514841#516584#518544#520547#522542#524374#526370#528370#530371#532372#534370#536106#538106#540038#541770#543694#545709#547365#972548#551063#553060#555075#557075#559075#561075#563075#565075#567075#569075#571075#572811#574477#576144#577811#579477#581144#582811#584477#586144#587811#589477#591144#592811#594477#596144#597811#599477#601144#602811#604477#606144#607811#609477#611144#612811#614477#616144#617811#619477#621144#622811#624477#626144#627811#629477#631144#632811#634477#636144#637811#639477#641144#642811#644477#646144#647811#649477#651144#652811#654477#656144#657832#659852#661879#663901#665885#667885#669885#671885#673885#675885#677885#679885#681885#683885#685885#687885#689558#691225#692891#694558#696225#697891#699558#701225#702891#704558#706225#707891#709558#711225#712891#714558#716225#717891#719558#721225#722891#724558#726225#727891#729558#731225#732891#734558#736225#737891#739558#741225#742891#744558#746225#747891#749558#751225#752891#754558#756225#757891#759558#761225#762891#764558#766225#767891#769558#771225#772891#774558#776225#777891#779558#781225#782891#784558#786225#787891#789558#791225#792891#794558#796266#798289#800228#802133#804074#806098#807981#809739#811463#813179#814901#816622#818338#820063#821781#823500#825223#826939#828665#830381#832105#834049#835960#837732#839456#841172#842899#844623#846346#848065#849791#851512#853236#854952#856938#858874#860578#862302#864022#865745#867473#869189#870916#872640#874360#876083#877802#879523#881297#883027#884748#886469#888196#889926#891661#893408#895137#896866#898597#900325#902057#903777#905678#907552#909442#917406#920406#925155#928849#932987#935856#937751#939604#941503#943397#945292#947143#948808#950478#952198#953959#955856#957697#959398#961295#962940#964808#966705#968424Done scanning file   
+Parsing input file took 3 seconds
+Creating geometry...
+[#######                                           ][########                                          ][#########                                         ][##########                                        ][###########                                       ][############                                      ][#############                                     ][##############                                    ][###############                                   ][################                                  ][#################                                 ][##################                                ][###################                               ][####################                              ][#####################                             ][######################                            ][#######################                           ][########################                          ][#########################                         ][##########################                        ][###########################                       ][############################                      ][#############################                     ][##############################                    ][###############################                   ][################################                  ][#################################                 ][##################################                ][###################################               ][####################################              ][#####################################             ][######################################            ][#######################################           ][########################################          ][#########################################         ][##########################################        ][###########################################       ][############################################      ][#############################################     ][##############################################    ]Done creating geometry (5131 objects)                                
+
+Log:
+[Notice] exclude entities IfcOpeningElement IfcSpace
+[Warning] {1p8QxkCUv7Fuw5tDmmux3k} Subtraction yields unchanged volume:
+#19148=IfcBooleanClippingResult(.DIFFERENCE.,#19131,#19147)
+[Warning] {2wtNIwa2n3WvAha5zW9w6z} Subtraction yields unchanged volume:
+#162199=IfcBooleanClippingResult(.DIFFERENCE.,#162182,#162198)
+[Warning] {3_ifxLmznFJACGYQsul22Y} Subtraction yields unchanged volume:
+#166240=IfcBooleanClippingResult(.DIFFERENCE.,#166215,#166239)
+[Warning] {2gu9mcAO59z8orYiyKYU2g} Subtraction yields unchanged volume:
+#187999=IfcBooleanClippingResult(.DIFFERENCE.,#187982,#187998)
+[Warning] {2gu9mcAO59z8orYiyKYU05} Subtraction yields unchanged volume:
+#188115=IfcBooleanClippingResult(.DIFFERENCE.,#188098,#188114)
+[Warning] {2gu9mcAO59z8orYiyKYUE1} Subtraction yields unchanged volume:
+#188433=IfcBooleanClippingResult(.DIFFERENCE.,#188416,#188432)
+[Warning] {1NSZNc5LPAyhudMTF5trwl} Subtraction yields unchanged volume:
+#191781=IfcBooleanClippingResult(.DIFFERENCE.,#191764,#191780)
+[Warning] {08X21UNO1EYBmdoSBcyGhP} No material and surface styles for:
+#193313=IfcBuildingElementProxy('08X21UNO1EYBmdoSBcyGhP',#42,'Korrugerede rør (XX)_N1:Y20:2319380',$,'Korrugerede rør (XX)_N1:Y20',#193312,#193306,'2319380',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd6} No material and surface styles for:
+#256121=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd6',#42,'50 mm:2578242',$,$,#253400,#256118,'2578242',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd5} No material and surface styles for:
+#258865=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd5',#42,'50 mm:2578243',$,$,#256144,#258862,'2578243',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd4} No material and surface styles for:
+#261608=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd4',#42,'50 mm:2578244',$,$,#258887,#261605,'2578244',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdB} No material and surface styles for:
+#264351=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdB',#42,'50 mm:2578245',$,$,#261630,#264348,'2578245',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdA} No material and surface styles for:
+#267094=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdA',#42,'50 mm:2578246',$,$,#264373,#267091,'2578246',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd9} No material and surface styles for:
+#269837=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd9',#42,'50 mm:2578247',$,$,#267116,#269834,'2578247',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd8} No material and surface styles for:
+#272580=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd8',#42,'T_02_1030x2281:2578248',$,$,#269859,#272577,'2578248',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdF} No material and surface styles for:
+#275324=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdF',#42,'T_01_1510x2281:2578249',$,$,#272603,#275321,'2578249',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdE} No material and surface styles for:
+#278068=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdE',#42,'T_01_1510x2281:2578250',$,$,#275347,#278065,'2578250',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdD} No material and surface styles for:
+#280811=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdD',#42,'T_02_1030x2281:2578251',$,$,#278090,#280808,'2578251',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdC} No material and surface styles for:
+#283554=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdC',#42,'T_02_1030x2281:2578252',$,$,#280833,#283551,'2578252',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdp} No material and surface styles for:
+#286297=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdp',#42,'T_01_1690x2281:2578253',$,$,#283576,#286294,'2578253',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdo} No material and surface styles for:
+#289041=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdo',#42,'T_01_1510x2281:2578254',$,$,#286320,#289038,'2578254',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdn} No material and surface styles for:
+#291784=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdn',#42,'T_01_1690x2281:2578255',$,$,#289063,#291781,'2578255',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdm} No material and surface styles for:
+#294527=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdm',#42,'T_02_1030x2281:2578256',$,$,#291806,#294524,'2578256',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdt} No material and surface styles for:
+#297270=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdt',#42,'T_02_1150x2281:2578257',$,$,#294549,#297267,'2578257',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bds} No material and surface styles for:
+#300014=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bds',#42,'T_02_1150x2281:2578258',$,$,#297293,#300011,'2578258',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdr} No material and surface styles for:
+#302757=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdr',#42,'T_02_1150x2281:2578259',$,$,#300036,#302754,'2578259',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdq} No material and surface styles for:
+#305500=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdq',#42,'T_05_1030x2281:2578260',$,$,#302779,#305497,'2578260',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdx} No material and surface styles for:
+#308244=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdx',#42,'T_05_1030x2281:2578261',$,$,#305523,#308241,'2578261',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdw} No material and surface styles for:
+#310987=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdw',#42,'T_01_1510x2281:2578262',$,$,#308266,#310984,'2578262',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdv} No material and surface styles for:
+#313730=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdv',#42,'T_02_1030x2281:2578263',$,$,#311009,#313727,'2578263',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdu} No material and surface styles for:
+#316473=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdu',#42,'T_02_1150x2281:2578264',$,$,#313752,#316470,'2578264',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd$} No material and surface styles for:
+#319216=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd$',#42,'T_02_1150x2281:2578265',$,$,#316495,#319213,'2578265',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bd_} No material and surface styles for:
+#321959=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bd_',#42,'T_02_1150x2281:2578266',$,$,#319238,#321956,'2578266',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdz} No material and surface styles for:
+#324702=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdz',#42,'T_02_1030x2281:2578267',$,$,#321981,#324699,'2578267',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdy} No material and surface styles for:
+#327445=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdy',#42,'T_01_1690x2281 - Venstre hængt:2578268',$,$,#324724,#327442,'2578268',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdZ} No material and surface styles for:
+#330189=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdZ',#42,'T_03_2290x2281:2578269',$,$,#327468,#330186,'2578269',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdY} No material and surface styles for:
+#332933=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdY',#42,'T_02_1030x2281:2578270',$,$,#330212,#332930,'2578270',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdX} No material and surface styles for:
+#335676=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdX',#42,'T_02_1030x2281:2578271',$,$,#332955,#335673,'2578271',$)
+[Warning] {09k5C78jD7SPP_sCuC_BdW} No material and surface styles for:
+#338419=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_BdW',#42,'T_02_1030x2281:2578272',$,$,#335698,#338416,'2578272',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdd} No material and surface styles for:
+#341162=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdd',#42,'T_01_1510x2281:2578273',$,$,#338441,#341159,'2578273',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdc} No material and surface styles for:
+#343905=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdc',#42,'T_02_1030x2281:2578274',$,$,#341184,#343902,'2578274',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdb} No material and surface styles for:
+#346648=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdb',#42,'T_02_1030x2281:2578275',$,$,#343927,#346645,'2578275',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bda} No material and surface styles for:
+#349391=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bda',#42,'T_02_1030x2281:2578276',$,$,#346670,#349388,'2578276',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdh} No material and surface styles for:
+#352134=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdh',#42,'T_01_1510x2281:2578277',$,$,#349413,#352131,'2578277',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bde} No material and surface styles for:
+#354877=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bde',#42,'T_02_1030x2281:2578280',$,$,#352156,#354874,'2578280',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdl} No material and surface styles for:
+#357620=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdl',#42,'T_02_1030x2281:2578281',$,$,#354899,#357617,'2578281',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdk} No material and surface styles for:
+#360363=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdk',#42,'T_02_1030x2281:2578282',$,$,#357642,#360360,'2578282',$)
+[Warning] {09k5C78jD7SPP_sCuC_Bdj} No material and surface styles for:
+#363106=IfcBuildingElementProxy('09k5C78jD7SPP_sCuC_Bdj',#42,'T_02_1150x2281:2578283',$,$,#360385,#363103,'2578283',$)
+[Warning] {1Kfzx5S5DFG8TpNfFmU6O3} Subtraction yields unchanged volume:
+#363173=IfcBooleanClippingResult(.DIFFERENCE.,#363163,#363172)
+[Warning] {1CZ$aNw459rR_pqAp7tFtT} Subtraction yields unchanged volume:
+#372626=IfcBooleanClippingResult(.DIFFERENCE.,#372616,#372625)
+[Warning] {1CZ$aNw459rR_pqAp7tFtK} Subtraction yields unchanged volume:
+#372778=IfcBooleanClippingResult(.DIFFERENCE.,#372768,#372777)
+[Warning] {1CZ$aNw459rR_pqAp7tFt9} Subtraction yields unchanged volume:
+#372915=IfcBooleanClippingResult(.DIFFERENCE.,#372905,#372914)
+[Warning] {1CZ$aNw459rR_pqAp7tFt$} Subtraction yields unchanged volume:
+#373071=IfcBooleanClippingResult(.DIFFERENCE.,#373061,#373070)
+[Warning] {1CZ$aNw459rR_pqAp7tFtr} Subtraction yields unchanged volume:
+#373235=IfcBooleanClippingResult(.DIFFERENCE.,#373225,#373234)
+[Warning] {1CZ$aNw459rR_pqAp7tFtj} Subtraction yields unchanged volume:
+#373379=IfcBooleanClippingResult(.DIFFERENCE.,#373369,#373378)
+[Warning] {1CZ$aNw459rR_pqAp7tFqN} Subtraction yields unchanged volume:
+#373516=IfcBooleanClippingResult(.DIFFERENCE.,#373506,#373515)
+[Warning] {1CZ$aNw459rR_pqAp7tFfh} Subtraction yields unchanged volume:
+#373653=IfcBooleanClippingResult(.DIFFERENCE.,#373643,#373652)
+[Notice] {3UWawH12v7bxVK7UCtbEE0} Boolean operation result failing face-face interference check, with fuzziness 1e-05 with length 4.3382e-05
+[Notice] {2Qgn85x3j4_xWtY4cSdA6q} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.61489e-05
+[Warning] {0x$9f8GN59qxzYD_dXeoWC} No material and surface styles for:
+#508807=IfcBuildingElementProxy('0x$9f8GN59qxzYD_dXeoWC',#42,'Korrugerede rør (XX)_N1:Y25:2958873',$,'Korrugerede rør (XX)_N1:Y25',#508806,#508800,'2958873',$)
+[Warning] {0x$9f8GN59qxzYD_dXeoX5} No material and surface styles for:
+#508918=IfcBuildingElementProxy('0x$9f8GN59qxzYD_dXeoX5',#42,'Korrugerede rør (XX)_N1:Y25:2958878',$,'Korrugerede rør (XX)_N1:Y25',#508917,#508911,'2958878',$)
+[Warning] {0x$9f8GN59qxzYD_dXeoYL} No material and surface styles for:
+#509028=IfcBuildingElementProxy('0x$9f8GN59qxzYD_dXeoYL',#42,'Korrugerede rør (XX)_N1:Y25:2958883',$,'Korrugerede rør (XX)_N1:Y25',#509027,#509021,'2958883',$)
+[Warning] {0x$9f8GN59qxzYD_dXeoYH} No material and surface styles for:
+#509138=IfcBuildingElementProxy('0x$9f8GN59qxzYD_dXeoYH',#42,'Korrugerede rør (XX)_N1:Y25:2958887',$,'Korrugerede rør (XX)_N1:Y25',#509137,#509131,'2958887',$)
+[Warning] {0x$9f8GN59qxzYD_dXeoZL} No material and surface styles for:
+#509433=IfcBuildingElementProxy('0x$9f8GN59qxzYD_dXeoZL',#42,'Korrugerede rør (XX)_N1:Y20:2958900',$,'Korrugerede rør (XX)_N1:Y20',#509432,#509426,'2958900',$)
+[Warning] {1Km0bnovz6wxkbtTAmOF3J} No material and surface styles for:
+#509523=IfcBuildingElementProxy('1Km0bnovz6wxkbtTAmOF3J',#42,'Korrugerede rør (XX)_N1:Y20:2969588',$,'Korrugerede rør (XX)_N1:Y20',#509522,#509516,'2969588',$)
+[Warning] {1Km0bnovz6wxkbtTAmOEVz} No material and surface styles for:
+#509739=IfcBuildingElementProxy('1Km0bnovz6wxkbtTAmOEVz',#42,'Korrugerede rør (XX)_N1:Y20:2971866',$,'Korrugerede rør (XX)_N1:Y20',#509738,#509732,'2971866',$)
+[Warning] {1Km0bnovz6wxkbtTAmOEJL} No material and surface styles for:
+#510219=IfcBuildingElementProxy('1Km0bnovz6wxkbtTAmOEJL',#42,'Korrugerede rør (XX)_N1:Y25:2972658',$,'Korrugerede rør (XX)_N1:Y25',#510218,#510212,'2972658',$)
+[Warning] {1Km0bnovz6wxkbtTAmOEJH} No material and surface styles for:
+#510329=IfcBuildingElementProxy('1Km0bnovz6wxkbtTAmOEJH',#42,'Korrugerede rør (XX)_N1:Y25:2972662',$,'Korrugerede rør (XX)_N1:Y25',#510328,#510322,'2972662',$)
+[Warning] {1bdggSFy1A_AZ8$WjQkhZ3} No material and surface styles for:
+#510613=IfcBuildingElementProxy('1bdggSFy1A_AZ8$WjQkhZ3',#42,'Korrugerede rør (XX)_N1:Y20:2977009',$,'Korrugerede rør (XX)_N1:Y20',#510612,#510604,'2977009',$)
+[Warning] {1bdggSFy1A_AZ8$WjQkePQ} No material and surface styles for:
+#510835=IfcBuildingElementProxy('1bdggSFy1A_AZ8$WjQkePQ',#42,'Korrugerede rør (XX)_N1:Y20:2977025',$,'Korrugerede rør (XX)_N1:Y20',#510834,#510828,'2977025',$)
+[Warning] {3gK97IjB97OgLujVyQ1ngQ} No material and surface styles for:
+#523207=IfcBuildingElementProxy('3gK97IjB97OgLujVyQ1ngQ',#42,'Korrugerede rør (XX)_N1:Y25:3118960',$,'Korrugerede rør (XX)_N1:Y25',#523206,#523200,'3118960',$)
+[Warning] {3gK97IjB97OgLujVyQ1nev} No material and surface styles for:
+#523317=IfcBuildingElementProxy('3gK97IjB97OgLujVyQ1nev',#42,'Korrugerede rør (XX)_N1:Y20:3118962',$,'Korrugerede rør (XX)_N1:Y20',#523316,#523310,'3118962',$)
+[Warning] {3$EJXM_eX2iRDZtWJcs2pQ} No material and surface styles for:
+#523506=IfcBuildingElementProxy('3$EJXM_eX2iRDZtWJcs2pQ',#42,'Korrugerede rør (XX)_N1:Y20:3126790',$,'Korrugerede rør (XX)_N1:Y20',#523505,#523499,'3126790',$)
+[Warning] {3$EJXM_eX2iRDZtWJcs2oA} No material and surface styles for:
+#523616=IfcBuildingElementProxy('3$EJXM_eX2iRDZtWJcs2oA',#42,'Korrugerede rør (XX)_N1:Y20:3126870',$,'Korrugerede rør (XX)_N1:Y20',#523615,#523609,'3126870',$)
+[Warning] {2WrliP9dnEXPe6onfRRtgD} No material and surface styles for:
+#539544=IfcBuildingElementProxy('2WrliP9dnEXPe6onfRRtgD',#42,'Korrugerede rør (XX)_N1:Y20:3147205',$,'Korrugerede rør (XX)_N1:Y20',#539543,#539537,'3147205',$)
+[Warning] {2WrliP9dnEXPe6onfRRtgs} No material and surface styles for:
+#539876=IfcBuildingElementProxy('2WrliP9dnEXPe6onfRRtgs',#42,'Korrugerede rør (XX)_N1:Y25:3147213',$,'Korrugerede rør (XX)_N1:Y25',#539875,#539869,'3147213',$)
+[Warning] {2WrliP9dnEXPe6onfRRtNS} No material and surface styles for:
+#540060=IfcBuildingElementProxy('2WrliP9dnEXPe6onfRRtNS',#42,'Korrugerede rør (XX)_N1:Y20:3147218',$,'Korrugerede rør (XX)_N1:Y20',#540059,#540053,'3147218',$)
+[Warning] {3iyedUG0X5DRvAqX87U$Wm} No material and surface styles for:
+#541443=IfcBuildingElementProxy('3iyedUG0X5DRvAqX87U$Wm',#42,'Korrugerede rør (XX)_N1:Y25:3159621',$,'Korrugerede rør (XX)_N1:Y25',#541442,#541436,'3159621',$)
+[Warning] {3iyedUG0X5DRvAqX87U$S7} No material and surface styles for:
+#541553=IfcBuildingElementProxy('3iyedUG0X5DRvAqX87U$S7',#42,'Korrugerede rør (XX)_N1:Y25:3160434',$,'Korrugerede rør (XX)_N1:Y25',#541552,#541546,'3160434',$)
+[Warning] {2Ax701AHz8bwz3g1nuye7d} No material and surface styles for:
+#541701=IfcBuildingElementProxy('2Ax701AHz8bwz3g1nuye7d',#42,'Korrugerede rør (XX)_N1:Y25:3162104',$,'Korrugerede rør (XX)_N1:Y25',#541700,#541692,'3162104',$)
+[Warning] {0vJpKHgVLDgQt1xZ1miJhG} No material and surface styles for:
+#542846=IfcBuildingElementProxy('0vJpKHgVLDgQt1xZ1miJhG',#42,'Korrugerede rør (XX)_N1:Y25:3189453',$,'Korrugerede rør (XX)_N1:Y25',#542845,#542839,'3189453',$)
+[Warning] {0vJpKHgVLDgQt1xZ1miJZ7} No material and surface styles for:
+#542960=IfcBuildingElementProxy('0vJpKHgVLDgQt1xZ1miJZ7',#42,'Korrugerede rør (XX)_N1:Y20:3189481',$,'Korrugerede rør (XX)_N1:Y20',#542959,#542953,'3189481',$)
+[Warning] {0vJpKHgVLDgQt1xZ1miJmW} No material and surface styles for:
+#543115=IfcBuildingElementProxy('0vJpKHgVLDgQt1xZ1miJmW',#42,'Korrugerede rør (XX)_N1:Y32:3189527',$,'Korrugerede rør (XX)_N1:Y32',#543114,#543108,'3189527',$)
+[Warning] {1A1enBBwvD$OEUu9WqYght} No material and surface styles for:
+#543929=IfcBuildingElementProxy('1A1enBBwvD$OEUu9WqYght',#42,'Korrugerede rør (XX)_N1:Y25:3189699',$,'Korrugerede rør (XX)_N1:Y25',#543928,#543922,'3189699',$)
+[Warning] {0m6PkV_4r8Tw145kAm2ywW} No material and surface styles for:
+#544187=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2ywW',#42,'Korrugerede rør (XX)_N1:Y25:3201943',$,'Korrugerede rør (XX)_N1:Y25',#544186,#544180,'3201943',$)
+[Warning] {0m6PkV_4r8Tw145kAm2yw4} No material and surface styles for:
+#544260=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2yw4',#42,'Korrugerede rør (XX)_N1:Y25:3201971',$,'Korrugerede rør (XX)_N1:Y25',#544259,#544253,'3201971',$)
+[Warning] {0m6PkV_4r8Tw145kAm2yxG} No material and surface styles for:
+#544333=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2yxG',#42,'Korrugerede rør (XX)_N1:Y20:3202023',$,'Korrugerede rør (XX)_N1:Y20',#544332,#544326,'3202023',$)
+[Warning] {0m6PkV_4r8Tw145kAm2ydW} No material and surface styles for:
+#544480=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2ydW',#42,'Korrugerede rør (XX)_N1:Y20:3202263',$,'Korrugerede rør (XX)_N1:Y20',#544479,#544473,'3202263',$)
+[Warning] {0m6PkV_4r8Tw145kAm2$Ju} No material and surface styles for:
+#545186=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2$Ju',#42,'Korrugerede rør (XX)_N1:Y25:3203535',$,'Korrugerede rør (XX)_N1:Y25',#545185,#545179,'3203535',$)
+[Warning] {0m6PkV_4r8Tw145kAm2$P5} No material and surface styles for:
+#545592=IfcBuildingElementProxy('0m6PkV_4r8Tw145kAm2$P5',#42,'Korrugerede rør (XX)_N1:Y20:3203954',$,'Korrugerede rør (XX)_N1:Y20',#545591,#545585,'3203954',$)
+[Warning] {0XKQlLucfCKBCNE$MIRK6p} No material and surface styles for:
+#546084=IfcBuildingElementProxy('0XKQlLucfCKBCNE$MIRK6p',#42,'Korrugerede rør (XX)_N1:Y20:3206103',$,'Korrugerede rør (XX)_N1:Y20',#546083,#546077,'3206103',$)
+[Warning] {3Wt385qEz9cOC4M6roVwhu} No material and surface styles for:
+#548970=IfcBuildingElementProxy('3Wt385qEz9cOC4M6roVwhu',#42,'Korrugerede rør (XX)_N1:Y20:3231415',$,'Korrugerede rør (XX)_N1:Y20',#548969,#548963,'3231415',$)
+[Warning] {1WH4kBTWD17v78Jd8RNB4g} No material and surface styles for:
+#549529=IfcBuildingElementProxy('1WH4kBTWD17v78Jd8RNB4g',#42,'Korrugerede rør (XX)_N1:Y25:3233934',$,'Korrugerede rør (XX)_N1:Y25',#549528,#549522,'3233934',$)
+[Warning] {1WH4kBTWD17v78Jd8RNBMz} No material and surface styles for:
+#549684=IfcBuildingElementProxy('1WH4kBTWD17v78Jd8RNBMz',#42,'Korrugerede rør (XX)_N1:Y25:3233962',$,'Korrugerede rør (XX)_N1:Y25',#549683,#549677,'3233962',$)
+[Warning] {1WH4kBTWD17v78Jd8RNBM4} No material and surface styles for:
+#549757=IfcBuildingElementProxy('1WH4kBTWD17v78Jd8RNBM4',#42,'Korrugerede rør (XX)_N1:Y20:3233963',$,'Korrugerede rør (XX)_N1:Y20',#549756,#549750,'3233963',$)
+[Warning] {1WH4kBTWD17v78Jd8RNBNh} No material and surface styles for:
+#549830=IfcBuildingElementProxy('1WH4kBTWD17v78Jd8RNBNh',#42,'Korrugerede rør (XX)_N1:Y20:3233964',$,'Korrugerede rør (XX)_N1:Y20',#549829,#549823,'3233964',$)
+[Warning] {0OcVfAhj1FRPqeiYJ$DNDr} No material and surface styles for:
+#549923=IfcBuildingElementProxy('0OcVfAhj1FRPqeiYJ$DNDr',#42,'Korrugerede rør (XX)_N1:Y20:3235638',$,'Korrugerede rør (XX)_N1:Y20',#549922,#549916,'3235638',$)
+[Warning] {0OcVfAhj1FRPqeiYJ$DN8c} No material and surface styles for:
+#550070=IfcBuildingElementProxy('0OcVfAhj1FRPqeiYJ$DN8c',#42,'Korrugerede rør (XX)_N1:Y25:3235642',$,'Korrugerede rør (XX)_N1:Y25',#550069,#550063,'3235642',$)
+[Warning] {0OcVfAhj1FRPqeiYJ$DNHe} No material and surface styles for:
+#550256=IfcBuildingElementProxy('0OcVfAhj1FRPqeiYJ$DNHe',#42,'Korrugerede rør (XX)_N1:Y25:3235665',$,'Korrugerede rør (XX)_N1:Y25',#550255,#550247,'3235665',$)
+[Warning] {0xsK6eRc57n9WnuA4slLEP} No material and surface styles for:
+#551327=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLEP',#42,'Korrugerede rør (XX)_N1:Y25:3237572',$,'Korrugerede rør (XX)_N1:Y25',#551326,#551318,'3237572',$)
+[Warning] {0xsK6eRc57n9WnuA4slLEG} No material and surface styles for:
+#551402=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLEG',#42,'Korrugerede rør (XX)_N1:Y20:3237581',$,'Korrugerede rør (XX)_N1:Y20',#551401,#551393,'3237581',$)
+[Warning] {0xsK6eRc57n9WnuA4slLA6} No material and surface styles for:
+#551477=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLA6',#42,'Korrugerede rør (XX)_N1:Y25:3237851',$,'Korrugerede rør (XX)_N1:Y25',#551476,#551468,'3237851',$)
+[Warning] {0xsK6eRc57n9WnuA4slLr_} No material and surface styles for:
+#551591=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLr_',#42,'Korrugerede rør (XX)_N1:Y25:3237923',$,'Korrugerede rør (XX)_N1:Y25',#551590,#551582,'3237923',$)
+[Warning] {0xsK6eRc57n9WnuA4slLs_} No material and surface styles for:
+#551705=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLs_',#42,'Korrugerede rør (XX)_N1:Y25:3238115',$,'Korrugerede rør (XX)_N1:Y25',#551704,#551696,'3238115',$)
+[Warning] {0xsK6eRc57n9WnuA4slLoL} No material and surface styles for:
+#552014=IfcBuildingElementProxy('0xsK6eRc57n9WnuA4slLoL',#42,'Korrugerede rør (XX)_N1:Y20:3238344',$,'Korrugerede rør (XX)_N1:Y20',#552013,#552005,'3238344',$)
+[Warning] {0b4BNmJ11AIf95Qoqvy_Rl} No material and surface styles for:
+#552128=IfcBuildingElementProxy('0b4BNmJ11AIf95Qoqvy_Rl',#42,'Korrugerede rør (XX)_N1:Y25:3239779',$,'Korrugerede rør (XX)_N1:Y25',#552127,#552119,'3239779',$)
+[Warning] {3ny9JcmyfCEuy1gO6_NZjY} No material and surface styles for:
+#552397=IfcBuildingElementProxy('3ny9JcmyfCEuy1gO6_NZjY',#42,'Korrugerede rør (XX)_N1:Y25:3239960',$,'Korrugerede rør (XX)_N1:Y25',#552396,#552388,'3239960',$)
+[Warning] {3ny9JcmyfCEuy1gO6_NZet} No material and surface styles for:
+#552667=IfcBuildingElementProxy('3ny9JcmyfCEuy1gO6_NZet',#42,'Korrugerede rør (XX)_N1:Y20:3240269',$,'Korrugerede rør (XX)_N1:Y20',#552666,#552658,'3240269',$)
+[Warning] {0dQXqUV0L9LwNkiUZszMrE} No material and surface styles for:
+#552781=IfcBuildingElementProxy('0dQXqUV0L9LwNkiUZszMrE',#42,'Korrugerede rør (XX)_N1:Y25:3241580',$,'Korrugerede rør (XX)_N1:Y25',#552780,#552772,'3241580',$)
+[Warning] {0dQXqUV0L9LwNkiUZszMDQ} No material and surface styles for:
+#553207=IfcBuildingElementProxy('0dQXqUV0L9LwNkiUZszMDQ',#42,'Korrugerede rør (XX)_N1:Y25:3242104',$,'Korrugerede rør (XX)_N1:Y25',#553206,#553198,'3242104',$)
+[Warning] {0dQXqUV0L9LwNkiUZszMF0} No material and surface styles for:
+#553321=IfcBuildingElementProxy('0dQXqUV0L9LwNkiUZszMF0',#42,'Korrugerede rør (XX)_N1:Y20:3242210',$,'Korrugerede rør (XX)_N1:Y20',#553320,#553312,'3242210',$)
+[Warning] {0rMNJgY6v9qhPTLa$Tl3nf} No material and surface styles for:
+#663482=IfcBuildingElementProxy('0rMNJgY6v9qhPTLa$Tl3nf',#42,'Korrugerede rør (XX)_N1:Y16:3282112',$,'Korrugerede rør (XX)_N1:Y16',#663481,#663475,'3282112',$)
+[Warning] {0rMNJgY6v9qhPTLa$Tl3j$} No material and surface styles for:
+#663850=IfcBuildingElementProxy('0rMNJgY6v9qhPTLa$Tl3j$',#42,'Korrugerede rør (XX)_N1:Y16:3282123',$,'Korrugerede rør (XX)_N1:Y16',#663849,#663845,'3282123',$)
+[Warning] {0rMNJgY6v9qhPTLa$Tl3IB} No material and surface styles for:
+#664607=IfcBuildingElementProxy('0rMNJgY6v9qhPTLa$Tl3IB',#42,'Korrugerede rør (XX)_N1:Y20:3283946',$,'Korrugerede rør (XX)_N1:Y20',#664606,#664598,'3283946',$)
+[Warning] {3rfq9ipFXFKwxTT2fiyZhy} No material and surface styles for:
+#796211=IfcBuildingElementProxy('3rfq9ipFXFKwxTT2fiyZhy',#42,'Korrugerede rør (XX)_N1:M20:3338682',$,'Korrugerede rør (XX)_N1:M20',#796210,#796204,'3338682',$)
+[Warning] {3rfq9ipFXFKwxTT2fiyZY6} No material and surface styles for:
+#796285=IfcBuildingElementProxy('3rfq9ipFXFKwxTT2fiyZY6',#42,'Korrugerede rør (XX)_N1:M20:3339200',$,'Korrugerede rør (XX)_N1:M20',#796284,#796278,'3339200',$)
+[Warning] {3rfq9ipFXFKwxTT2fiyZYT} No material and surface styles for:
+#796432=IfcBuildingElementProxy('3rfq9ipFXFKwxTT2fiyZYT',#42,'Korrugerede rør (XX)_N1:M20:3339227',$,'Korrugerede rør (XX)_N1:M20',#796431,#796425,'3339227',$)
+[Warning] {3rfq9ipFXFKwxTT2fiyZYY} No material and surface styles for:
+#796505=IfcBuildingElementProxy('3rfq9ipFXFKwxTT2fiyZYY',#42,'Korrugerede rør (XX)_N1:M20:3339236',$,'Korrugerede rør (XX)_N1:M20',#796504,#796498,'3339236',$)
+[Warning] {0wPK$RibX2zvEnk3C3SMx6} No material and surface styles for:
+#796581=IfcBuildingElementProxy('0wPK$RibX2zvEnk3C3SMx6',#42,'Korrugerede rør (XX)_N1:Y20:3352620',$,'Korrugerede rør (XX)_N1:Y20',#796580,#796572,'3352620',$)
+[Warning] {0wPK$RibX2zvEnk3C3SMwd} No material and surface styles for:
+#796656=IfcBuildingElementProxy('0wPK$RibX2zvEnk3C3SMwd',#42,'Korrugerede rør (XX)_N1:Y20:3352653',$,'Korrugerede rør (XX)_N1:Y20',#796655,#796647,'3352653',$)
+[Warning] {0aCEUuYbf90hq$4j2ThNa_} No material and surface styles for:
+#796879=IfcBuildingElementProxy('0aCEUuYbf90hq$4j2ThNa_',#42,'Korrugerede rør (XX)_N1:Y20:3359964',$,'Korrugerede rør (XX)_N1:Y20',#796878,#796874,'3359964',$)
+[Warning] {0aCEUuYbf90hq$4j2ThNhG} No material and surface styles for:
+#797100=IfcBuildingElementProxy('0aCEUuYbf90hq$4j2ThNhG',#42,'Korrugerede rør (XX)_N1:Y20:3360562',$,'Korrugerede rør (XX)_N1:Y20',#797099,#797093,'3360562',$)
+[Warning] {1FKIBvnVf5m8EuR$gQilI4} No material and surface styles for:
+#798357=IfcBuildingElementProxy('1FKIBvnVf5m8EuR$gQilI4',#42,'Korrugerede rør (XX)_N1:Y20:3389087',$,'Korrugerede rør (XX)_N1:Y20',#798356,#798350,'3389087',$)
+[Warning] {1FKIBvnVf5m8EuR$gQilm8} No material and surface styles for:
+#799100=IfcBuildingElementProxy('1FKIBvnVf5m8EuR$gQilm8',#42,'Korrugerede rør (XX)_N1:Y20:3389125',$,'Korrugerede rør (XX)_N1:Y20',#799099,#799093,'3389125',$)
+[Warning] {1FKIBvnVf5m8EuR$gQiiLt} No material and surface styles for:
+#799615=IfcBuildingElementProxy('1FKIBvnVf5m8EuR$gQiiLt',#42,'Korrugerede rør (XX)_N1:Y20:3389155',$,'Korrugerede rør (XX)_N1:Y20',#799614,#799608,'3389155',$)
+[Warning] {1Y6VZNObj50eQtDlgjsXQf} No material and surface styles for:
+#800062=IfcBuildingElementProxy('1Y6VZNObj50eQtDlgjsXQf',#42,'Korrugerede rør (XX)_N1:Y20:3389724',$,'Korrugerede rør (XX)_N1:Y20',#800061,#800055,'3389724',$)
+[Warning] {0$ue_rXI1FUu9K8R9h5uaU} No material and surface styles for:
+#804253=IfcBuildingElementProxy('0$ue_rXI1FUu9K8R9h5uaU',#42,'Korrugerede rør (XX)_N1:Y20:3455197',$,'Korrugerede rør (XX)_N1:Y20',#804252,#804246,'3455197',$)
+[Warning] {0FdAyB7kLEPBI8o6a6AklE} No material and surface styles for:
+#806404=IfcBuildingElementProxy('0FdAyB7kLEPBI8o6a6AklE',#42,'Korrugerede rør (XX)_N1:Y16:3492716',$,'Korrugerede rør (XX)_N1:Y16',#806403,#806397,'3492716',$)
+[Warning] {0FdAyB7kLEPBI8o6a6AkjH} No material and surface styles for:
+#807179=IfcBuildingElementProxy('0FdAyB7kLEPBI8o6a6AkjH',#42,'Korrugerede rør (XX)_N1:Y16:3492851',$,'Korrugerede rør (XX)_N1:Y16',#807178,#807172,'3492851',$)
+[Warning] {28YwyWbF10KftPRp1XBmpp} No material and surface styles for:
+#907498=IfcBuildingElementProxy('28YwyWbF10KftPRp1XBmpp',#42,'Korrugerede rør (XX)_N1:Y25:3954060',$,'Korrugerede rør (XX)_N1:Y25',#907497,#907491,'3954060',$)
+[Warning] {28YwyWbF10KftPRp1XBm5I} No material and surface styles for:
+#907647=IfcBuildingElementProxy('28YwyWbF10KftPRp1XBm5I',#42,'Korrugerede rør (XX)_N1:Y25:3954733',$,'Korrugerede rør (XX)_N1:Y25',#907646,#907638,'3954733',$)
+[Warning] {28YwyWbF10KftPRp1XBm09} No material and surface styles for:
+#907759=IfcBuildingElementProxy('28YwyWbF10KftPRp1XBm09',#42,'Korrugerede rør (XX)_N1:Y25:3955062',$,'Korrugerede rør (XX)_N1:Y25',#907758,#907752,'3955062',$)
+[Warning] {2Q0eNwU2bEDe$uUobCErmi} No material and surface styles for:
+#910195=IfcBuildingElementProxy('2Q0eNwU2bEDe$uUobCErmi',#42,'Korrugerede rør (XX)_N1:M20:4089541',$,'Korrugerede rør (XX)_N1:M20',#910194,#910186,'4089541',$)
+
+
+Conversion took 2 minutes 53 seconds

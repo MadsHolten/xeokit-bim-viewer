@@ -1,0 +1,10 @@
+## CONVERSION TOOK 5.619 SECONDS ##
+
+Starting conversion. /usr/src/app/static/10406305/models/kon/geometry.gltf
+Number of objects: 3756
+Only once meshes: 3624
+More than once meshes: 132
+Total mesh instances: 1507
+Instancing factor -140.48%
+arrayBuffer takes 1637.682 kB
+Conversion completed. /usr/src/app/static/10406305/models/kon/geometry.xkt
