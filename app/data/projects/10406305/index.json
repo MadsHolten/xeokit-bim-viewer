@@ -13,6 +13,10 @@
 		{
 			"id": "el",
 			"name": "EL"
+		},
+		{
+			"id": "vvs",
+			"name": "VVS"
 		}
 	],
 	"viewerContent": {

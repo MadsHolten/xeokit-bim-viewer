@@ -1,0 +1,10 @@
+## CONVERSION TOOK 17.712 SECONDS ##
+
+Starting conversion. /usr/src/app/static/BLOX/models/arkitekt/geometry.gltf
+Number of objects: 8821
+Only once meshes: 6951
+More than once meshes: 1870
+Total mesh instances: 13206
+Instancing factor 47.36%
+arrayBuffer takes 3822.187 kB
+Conversion completed. /usr/src/app/static/BLOX/models/arkitekt/geometry.xkt

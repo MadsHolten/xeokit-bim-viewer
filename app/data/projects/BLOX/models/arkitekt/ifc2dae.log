@@ -1,0 +1,544 @@
+## CONVERSION TOOK 207.68 SECONDS ##
+
+IfcOpenShell IfcConvert 0.6.0b0 (OCC 7.3.0)
+Scanning file...
+#1875#3560#5421#7271#9214#11148#13116#15048#16981#18752#20645#22669#24645#26364#28406#30382#32194#34212#36119#38207#40227#42136#44015#45936#47750#49736#51640#53489#55224#57338#59166#61179#63063#64877#66898#68756#1996661#72638#74526#76417#78322#80193#82167#84133#86057#87979#89868#91842#93577#95497#97500#99475#101208#103405#105320#107197#109072#110830#112841#114745#116633#118493#1993957#122381#124229#126186#128112#129939#131935#133693#135449#137565#1993089#141096#142965#145317#147250#149173#151093#153033#154957#156877#158797#160723#162635#164564#166490#168416#170338#172269#174201#176141#178045#179890#181710#183486#185340#187055#188818#190593#192270#194132#195799#197593#199645#201479#203248#205042#206832#208668#210427#212399#214357#216287#218215#220223#222177#224110#226115#228031#230057#232022#233804#235471#237137#238870#240929#243344#245565#247971#250012#251768#253435#255123#257177#258887#260554#262220#264025#265933#267600#269266#270933#272705#274643#276310#277976#279643#281384#283354#285020#286687#288354#290062#292031#293809#295476#297148#299039#300985#302978#304664#306331#307997#309870#311704#313370#315037#316704#318549#320414#322081#323748#325414#327219#329166#331130#333085#335139#337112#338869#340536#342203#343964#345950#347616#349283#350950#352836#354613#356280#357947#359696#361618#363284#364951#366642#368588#370255#371922#373611#375563#377230#378896#380567#382560#384247#385913#387580#389339#391284#392951#394617#396284#398044#400034#401711#403378#405045#406911#408699#410366#412033#413913#415788#417728#419580#421580#423246#424913#426580#428267#430226#432150#433816#435483#437150#438943#440830#442807#444525#446191#447858#449564#451414#453345#455282#457181#458848#460515#462181#464141#465929#467596#469262#470929#472616#474582#476417#478084#479751#481417#483165#485098#486991#488932#490903#492628#494702#496455#498499#500355#502308#504297#506125#507877#509640#511520#513954#515922#517589#519256#520922#522589#524256#525922#527589#529376#531273#533125#534792#536459#538142#540115#541947#543613#545280#546947#548771#550678#552645#554340#556007#557674#559510#561333#562999#564666#566374#568269#570218#571976#573768#575664#577657#579416#581083#582749#584416#586368#588121#589787#591454#593123#595080#596826#598493#600159#601831#603794#605532#607198#608865#610539#612498#614164#615831#617498#619419#621086#622753#624567#626334#628000#1997010#631582#633249#634916#636791#638607#640274#641941#643607#1990935#647405#649374#651041#652708#654374#656153#658125#659844#661510#663177#665010#666836#668503#670170#671863#673853#675537#677203#678870#680607#682523#684419#686259#1990774#689883#691721#693943#695750#697794#699576#701483#703448#705352#707196#709227#711024#713104#715052#716818#718919#720712#722654#724459#726399#728405#1988745#732145#733978#735925#737790#739711#741472#743139#744805#746642#748472#750139#751806#753588#755422#757089#758755#760468#762470#764394#766596#768618#770598#772341#774007#775674#777351#779306#781193#783115#785055#786982#788648#790315#791982#793743#795697#797411#799098#800740#802901#805706#808038#809889#811690#813679#815350#817016#818683#820535#822201#823889#825734#827569#829335#831165#833036#834713#1986598#837967#839939#841578#844765#846521#848226#849841#851468#853465#855067#858210#860196#862179#864013#865760#867913#869657#871602#873372#875569#877490#879440#881384#883310#885241#887289#889258#891150#893113#894949#896904#898718#900529#902396#904202#906048#907906#909707#911509#913341#915178#1981349#918817#920694#922483#924263#926120#928039#929817#931615#933440#935241#937105#938851#940517#942184#943879#945879#947679#949346#951012#952679#954346#956012#957679#959346#961088#962811#964478#966218#968006#969847#971611#973381#975253#977192#979232#981306#983333#985356#987364#989124#991033#992861#994604#996381#998202#1000102#1001975#1003871#1005725#1007575#1009611#1011722#1013690#1015642#1017493#1019308#1021092#1022945#1024886#1026553#1028220#1029886#1031714#1033572#1035239#1036905#1038608#1040602#1042308#1043974#1045641#1047468#1049301#1050967#1052634#1054332#1056275#1058172#1059966#1061747#1063514#1065377#1067311#1069197#1071104#1072998#1074906#1076831#1078773#1080716#1082657#1084597#1086528#1978607#1090410#1092324#1094244#1978055#1098121#1100064#1102001#1103943#1105877#1977044#1109748#1111690#1113609#1115555#1117484#1119457#1121414#1123348#1125255#1127053#1129200#1131274#1133222#1135292#1137362#1139436#1141505#1143550#1145469#1147370#1149369#1151290#1153161#1155032#1156918#1158849#1160700#1162636#1164631#1166701#1168759#1170720#1172639#1174709#1176783#1178851#1180924#1182996#1185000#1186912#1188826#1190689#1192429#1194511#1196420#1198270#1200331#1202240#1204156#1205922#1207935#1209684#1211790#1213639#1215564#1217547#1219566#1221609#1223608#1225345#1227041#1228889#1230582#1232677#1234516#1236307#1238098#1239826#1241724#1243626#1245428#1247250#1249058#1250916#1252879#1254764#1256573#1258375#1260286#1262168#1263939#1265997#1267906#1971029#1271728#1273409#1275127#1277001#1278700#1280504#1282320#1284151#1285971#1287796#1289629#1291701#1293647#1295716#1297702#1299676#1301675#1303563#1305354#1307020#1308718#1310437#1312236#1313903#1315627#1317334#1319128#1320794#1322490#1324285#1325951#1327656#1329450#1331117#1332841#1334548#1336285#1337976#1339731#1341438#1343219#1344886#1346605#1348336#1350055#1351842#1353818#1970351#1357693#1359628#1361562#1363487#1365483#1367150#1368816#1370483#1372150#1374015#1375999#1377999#1379999#1381731#1383397#1385064#1386731#1388397#1390064#1391731#1393397#1395064#1396731#1398397#1400064#1401731#1403397#1405358#1407358#1409208#1410874#1412541#1414208#1415874#1417541#1419208#1420874#1422541#1424208#1425874#1427541#1429232#1430973#1432815#1434808#1436791#1438548#1440215#1441882#1443548#1445506#1447550#1449523#1451498#1453299#1454965#1456632#1458301#1460282#1461993#1463660#1465326#1467019#1469005#1471079#1473149#1475222#1477292#1479362#1481436#1483505#1485494#1487564#1489638#1491707#1493774#1495824#1497850#1499864#1501921#1503986#1505951#1507841#1509520#1511269#1513089#1515154#1517217#1519197#1520996#1523032#1525049#1526987#1528886#1530806#1532538#1534204#1535877#1537787#1539613#1541280#1542947#1544833#1546728#1548684#1550448#1552114#1553781#1555448#1557309#1559244#1560911#1562578#1564244#1565985#1567883#1569953#1572026#1574096#1576124#1578139#1580197#1582258#1584304#1586221#1588255#1590258#1591936#1593603#1595269#1596950#1598996#1601066#1603095#1604975#1606641#1608308#1610036#1612093#1614163#1616208#1618243#1620114#1622176#1624214#1625989#1627938#1629884#1631772#1633779#1635807#1637823#1639879#1641928#1643937#1645637#1647304#1648970#1650700#1652709#1654532#1656199#1657865#1659532#1661453#1663119#1664786#1666529#1668484#1670326#1671993#1673660#1675326#1677263#1679205#1681013#1682832#1684613#1686434#1688151#1689930#1691737#1693749#1695791#1697808#1700015#1702054#1704092#1706077#1708131#1710203#1712272#1714316#1716385#1718282#1719995#1721642#1723265#1725204#1727354#1729912#1731644#1733440#1735754#1737793#1739740#1741731#1743418#1745085#1746751#1748490#1750458#1752125#1753791#1755458#1757340#1759124#1760791#1762457#1764168#1766163#1767856#1769523#1771189#1772958#1774872#1776539#1778205#1779872#1781719#1783538#1785205#1786871#1788581#1790524#1792190#1793857#1795524#1797437#1799257#1800924#1802591#1804297#1806073#1807934#1809788#1811708#1813666#1815624#1817486#1819510#1821465#1823348#1825106#1827117#1829049#1830804#1832960#1834967#1836906#1838859#1840783#1842718#1844634#1846414#1848334#1850401#1852279#1854283#1856194#1858124#1860053#1861978#1863916#1865844#1867755#1869709#1871683#1873556#1875483#1877298#1878969#1880795#1882595#1884404#1886181#1887955#1889739#1891534#1893329#1895096#1896887#1898681#1900503#1902333#1904207#1905873#1907540#1909358#1911276#1913164#1915081#1917107#1931302#1934529#1937659#1946941#1950876#1962464Done scanning file   
+Parsing input file took 8 seconds
+Creating geometry...
+[####                                              ][#####                                             ][######                                            ][#######                                           ][########                                          ][#########                                         ][##########                                        ][###########                                       ][############                                      ][#############                                     ][##############                                    ][###############                                   ][################                                  ][#################                                 ][##################                                ][###################                               ][####################                              ][#####################                             ][######################                            ][#######################                           ][########################                          ][#########################                         ][##########################                        ][###########################                       ][############################                      ][#############################                     ][##############################                    ][###############################                   ][################################                  ][#################################                 ][##################################                ][###################################               ][####################################              ][#####################################             ][######################################            ][#######################################           ][########################################          ][#########################################         ][##########################################        ][###########################################       ][############################################      ][#############################################     ][##############################################    ][###############################################   ][################################################  ][################################################# ]Done creating geometry (19440 objects)                                
+
+Log:
+[Notice] exclude entities IfcOpeningElement IfcSpace
+[Warning] {1nTfJhmi98qAnCjF3En$O6} 0 duplicate faces removed, 0 loops removed and 2 non-manifold edges for:
+#41805=IfcClosedShell((#41560,#41593,#41602,#41615,#41632,#41641,#41648,#41657,#41662,#41671,#41682,#41691,#41696,#41701,#41708,#41713,#41720,#41727,#41734,#41741,#41748,#41755,#41762,#41767,#41774,#41779,#41784,#41791,#41796,#41803))
+[Warning] {1nTfJhmi98qAnCjF3En$O6} Multiple components in IfcConnectedFaceSet
+[Warning] {0ACncAmln3ZANR6YStmO1a} Self-intersections with 2 cycles detected
+#116953=IfcPolyLoop((#116943,#116945,#116947,#116949,#116951))
+[Warning] {0ACncAmln3ZANR6YStmO1a} Self-intersections with 2 cycles detected
+#116968=IfcPolyLoop((#116958,#116960,#116962,#116964,#116966))
+[Warning] {0ACncAmln3ZANR6YStmO1i} Self-intersections with 2 cycles detected
+#117052=IfcPolyLoop((#117042,#117044,#117046,#117048,#117050))
+[Warning] {0ACncAmln3ZANR6YStmO1i} Self-intersections with 2 cycles detected
+#117067=IfcPolyLoop((#117057,#117059,#117061,#117063,#117065))
+[Warning] {3vx8RdDWD2ZgFztK0HZcHR} Halfspace subtraction yields unchanged volume:
+#131940=IfcBooleanClippingResult(.DIFFERENCE.,#131934,#131939)
+[Warning] {3vx8RdDWD2ZgFztK0HZcHR} Subtraction yields unchanged volume:
+#131940=IfcBooleanClippingResult(.DIFFERENCE.,#131934,#131939)
+[Notice] {3wPA0vEqj9aRJ$fjRU931J} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.89975e-05
+[Notice] {29WzVaFIX51P97GjzHELqe} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.89239e-05
+[Notice] {1X4brq0vvADueAMkuyUFK3} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.57923e-05
+[Notice] {0gAe5Ow3j1rRTxLpwORHu7} Boolean operation result failing face-face interference check, with fuzziness 1e-05 with length 5.3618e-05
+[Notice] {1yV53Va8nC8RilQveIrLQT} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.36888e-05
+[Warning] {3Cwt84b$b9sQCVIIYpRecW} No material and surface styles for:
+#174742=IfcDoor('3Cwt84b$b9sQCVIIYpRecW',#42,'523:900X2500mm:586380',$,'523:900X2500mm',#1993726,#174736,'586380',2499.99999999998,900.000000000003)
+[Warning] {0qvalRX_X3kuvnC6_uuN8_} No material and surface styles for:
+#174824=IfcDoor('0qvalRX_X3kuvnC6_uuN8_',#42,'523:900X2500mm:586964',$,'523:900X2500mm',#1993554,#174818,'586964',2499.99999999998,900.000000000003)
+[Warning] {0qvalRX_X3kuvnC6_uuNjJ} No material and surface styles for:
+#174874=IfcDoor('0qvalRX_X3kuvnC6_uuNjJ',#42,'523:900X3160mm:589241',$,'523:900X3160mm',#1993474,#174868,'589241',3159.99999999804,900.000000000003)
+[Warning] {3J1_r6qTn9BAjmHQb1Wu3M} No material and surface styles for:
+#174925=IfcDoor('3J1_r6qTn9BAjmHQb1Wu3M',#42,'523:1500X3160mm:591152',$,'523:1500X3160mm',#1993500,#174919,'591152',3159.99999999804,1500.00000000001)
+[Warning] {2HCmcqBRf3tQZOxmNjU1is} No material and surface styles for:
+#175092=IfcDoor('2HCmcqBRf3tQZOxmNjU1is',#42,'523:1500X2500mm:594115',$,'523:1500X2500mm',#1993138,#175086,'594115',2499.99999999998,1500.00000000001)
+[Warning] {0qvalRX_X3kuvnC6_uu9J1} No material and surface styles for:
+#175172=IfcDoor('0qvalRX_X3kuvnC6_uu9J1',#42,'523:1500X2500mm:594475',$,'523:1500X2500mm',#1993054,#175166,'594475',2499.99999999998,1500.00000000001)
+[Warning] {2ai7P0Tbb9ZAShybPL9HXv} No material and surface styles for:
+#178158=IfcDoor('2ai7P0Tbb9ZAShybPL9HXv',#42,'523:900X2500mm:602759',$,'523:900X2500mm',#1991356,#178152,'602759',2499.99999999998,900.000000000003)
+[Warning] {17fFom$4HB3AqxU_wCzzpd} No material and surface styles for:
+#178614=IfcDoor('17fFom$4HB3AqxU_wCzzpd',#42,'523:900X2500mm:604215',$,'523:900X2500mm',#1992456,#178608,'604215',2499.99999999998,900.000000000003)
+[Notice] {0cMo234dv0KBoWLGJlWRWR} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.36888e-05
+[Warning] {1N$F2B_erAn9wMyNNGnw2V} No material and surface styles for:
+#297242=IfcDoor('1N$F2B_erAn9wMyNNGnw2V',#42,'523:1200X2700mm:929065',$,'523:1200X2700mm',#1994198,#297236,'929065',2699.99999999804,1200.)
+[Warning] {0L$InKTJL5Z8w9Ra9c7d9R} Halfspace subtraction yields unchanged volume:
+#298007=IfcBooleanClippingResult(.DIFFERENCE.,#298001,#298006)
+[Warning] {0L$InKTJL5Z8w9Ra9c7d9R} Subtraction yields unchanged volume:
+#298007=IfcBooleanClippingResult(.DIFFERENCE.,#298001,#298006)
+[Warning] {0L$InKTJL5Z8w9Ra9c7d9R} Subtraction yields unchanged volume:
+#298023=IfcBooleanClippingResult(.DIFFERENCE.,#298015,#298022)
+[Warning] {0L$InKTJL5Z8w9Ra9c7dNO} Halfspace subtraction yields unchanged volume:
+#298209=IfcBooleanClippingResult(.DIFFERENCE.,#298203,#298208)
+[Warning] {0L$InKTJL5Z8w9Ra9c7dNO} Subtraction yields unchanged volume:
+#298209=IfcBooleanClippingResult(.DIFFERENCE.,#298203,#298208)
+[Warning] {0L$InKTJL5Z8w9Ra9c7dNO} Subtraction yields unchanged volume:
+#298233=IfcBooleanClippingResult(.DIFFERENCE.,#298225,#298232)
+[Warning] {0L$InKTJL5Z8w9Ra9c7dJy} Halfspace subtraction yields unchanged volume:
+#298467=IfcBooleanClippingResult(.DIFFERENCE.,#298461,#298466)
+[Warning] {0L$InKTJL5Z8w9Ra9c7dJy} Subtraction yields unchanged volume:
+#298467=IfcBooleanClippingResult(.DIFFERENCE.,#298461,#298466)
+[Warning] {1a8ZfN3VzCDRBNzIdH51nK} Halfspace subtraction yields unchanged volume:
+#308717=IfcBooleanClippingResult(.DIFFERENCE.,#308711,#308716)
+[Warning] {1a8ZfN3VzCDRBNzIdH51nK} Subtraction yields unchanged volume:
+#308717=IfcBooleanClippingResult(.DIFFERENCE.,#308711,#308716)
+[Warning] {0V2TbUqqz6tvQy5oXx2Soa} No material and surface styles for:
+#331127=IfcDoor('0V2TbUqqz6tvQy5oXx2Soa',#42,'523:1200X2500mm:957365',$,'523:1200X2500mm',#1991736,#331121,'957365',2499.99999999998,1200.)
+[Warning] {02RwbtC8fCXv8oXjZNReVk} No material and surface styles for:
+#331874=IfcDoor('02RwbtC8fCXv8oXjZNReVk',#42,'523:1500X2500mm:965225',$,'523:1500X2500mm',#1992012,#331868,'965225',2499.99999999998,1500.)
+[Warning] {1OjNBMPz923hmBhR5YQ52A} No material and surface styles for:
+#397544=IfcStairFlight('1OjNBMPz923hmBhR5YQ52A',#42,'Stair:T-12:1032356:1',$,'Stair:T-12',#397542,#397539,'1032356',3,2,0.557742782152232,0.913911258789973)
+[Notice] {0Q8NSb_6f4ruIF8AXn3YbN} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.16869e-05
+[Warning] {1KWTWi2yfBYxw7tFBmmiUs} No material and surface styles for:
+#414690=IfcStair('1KWTWi2yfBYxw7tFBmmiUs',#42,'Stair:T-12:1039576',$,'Stair:T-12',#414688,#414685,'1039576',.NOTDEFINED.)
+[Warning] {1d6jFB3xj4BfJCQDXfzGgE} No material and surface styles for:
+#550282=IfcDoor('1d6jFB3xj4BfJCQDXfzGgE',#42,'S100:1110 x 2700:1185064',$,'S100:1110 x 2700',#1996674,#550276,'1185064',2700.,1110.)
+[Warning] {3GL8V4Nar9EhVjYNC7yJu0} No material and surface styles for:
+#550912=IfcDoor('3GL8V4Nar9EhVjYNC7yJu0',#42,'S100:1110 x 2700:1185088',$,'S100:1110 x 2700',#1996700,#550906,'1185088',2700.,1110.)
+[Warning] {2KUa9vfJX9a9VLcFg30tdN} No material and surface styles for:
+#567913=IfcDoor('2KUa9vfJX9a9VLcFg30tdN',#42,'S100:1110 x 2700:1185172',$,'S100:1110 x 2700',#1996758,#567907,'1185172',2700.,1110.00000000001)
+[Warning] {3uAOX3hmP06g13VCcUtLia} Halfspace subtraction yields unchanged volume:
+#574063=IfcBooleanClippingResult(.DIFFERENCE.,#574057,#574062)
+[Warning] {3uAOX3hmP06g13VCcUtLia} Subtraction yields unchanged volume:
+#574063=IfcBooleanClippingResult(.DIFFERENCE.,#574057,#574062)
+[Warning] {3uAOX3hmP06g13VCcUtMGl} Halfspace subtraction yields unchanged volume:
+#574373=IfcBooleanClippingResult(.DIFFERENCE.,#574367,#574372)
+[Warning] {3uAOX3hmP06g13VCcUtMGl} Subtraction yields unchanged volume:
+#574373=IfcBooleanClippingResult(.DIFFERENCE.,#574367,#574372)
+[Warning] {0ETViUzBn7K8udShnRdO3Q} No material and surface styles for:
+#671974=IfcDoor('0ETViUzBn7K8udShnRdO3Q',#42,'S100:950 x 2700:1278970',$,'S100:950 x 2700',#1996418,#671968,'1278970',2700.,949.999999999992)
+[Warning] {1MOFqpTQ59sPRew7aBFaXx} No material and surface styles for:
+#684234=IfcStairFlight('1MOFqpTQ59sPRew7aBFaXx',#42,'Stair:T-12:1298896:1',$,'Stair:T-12',#684232,#684229,'1298896',5,4,0.459317585301837,1.22484689413823)
+[Warning] {2a_slO_HX7pPshfGmchX1a} No material and surface styles for:
+#760627=IfcStair('2a_slO_HX7pPshfGmchX1a',#42,'Stair:T-12:1460572',$,'Stair:T-12',#760625,#760622,'1460572',.NOTDEFINED.)
+[Warning] {1XTJxPc5L8QQ_irKpJ8kS1} Subtraction yields unchanged volume:
+#793478=IfcBooleanClippingResult(.DIFFERENCE.,#793461,#793477)
+[Warning] {1$oGmW90T2g8Eyag$6CQBO} No material and surface styles for:
+#811153=IfcBuildingElementProxy('1$oGmW90T2g8Eyag$6CQBO',#42,'C-Profile 200x75x8.5:C-Profile - 200x75x8.5:1849450',$,'C-Profile 200x75x8.5:C-Profile - 200x75x8.5',#811152,#811143,'1849450',$)
+[Warning] {3fC9iLMenB1QIee$3xig4Z} No material and surface styles for:
+#811438=IfcBuildingElementProxy('3fC9iLMenB1QIee$3xig4Z',#42,'C-Profile 200x75x8.5:C-Profile - 200x75x8.5:1852826',$,'C-Profile 200x75x8.5:C-Profile - 200x75x8.5',#811437,#811428,'1852826',$)
+[Warning] {3iNPJGtQv7ZAR0tyk8WW29} No material and surface styles for:
+#860776=IfcColumn('3iNPJGtQv7ZAR0tyk8WW29',#42,'Facade:Corner 110 x 240:2031750',$,'Facade:Corner 110 x 240',#860775,#860770,'2031750')
+[Warning] {1$MSX0TPH3lxBXnsqFYABh} No material and surface styles for:
+#860855=IfcColumn('1$MSX0TPH3lxBXnsqFYABh',#42,'Facade:Corner 110 x 240:2033029',$,'Facade:Corner 110 x 240',#860854,#860849,'2033029')
+[Warning] {1$MSX0TPH3lxBXnsqFYA7v} No material and surface styles for:
+#860933=IfcColumn('1$MSX0TPH3lxBXnsqFYA7v',#42,'Facade:Corner 110 x 240:2033303',$,'Facade:Corner 110 x 240',#860932,#860927,'2033303')
+[Warning] {3uxTfNuan03vT4SAl9d04T} No material and surface styles for:
+#861032=IfcDoor('3uxTfNuan03vT4SAl9d04T',#42,'523:1500X2500mm:2037129',$,'523:1500X2500mm',#1991984,#861026,'2037129',2499.99999999998,1500.00000000001)
+[Warning] {1fMGw0IrzCjerZPv1JgzGX} No material and surface styles for:
+#863147=IfcColumn('1fMGw0IrzCjerZPv1JgzGX',#42,'Facade:Corner 110 x 240:2038681',$,'Facade:Corner 110 x 240',#863146,#863141,'2038681')
+[Warning] {1Ubj9KdfT3Yh0g$tbwI7pD} No material and surface styles for:
+#875935=IfcDoor('1Ubj9KdfT3Yh0g$tbwI7pD',#42,'523:1300X2500mm:2052536',$,'523:1300X2500mm',#1992176,#875929,'2052536',2499.99999999998,1300.)
+[Notice] {1TBmEKvhjF3RlFDYXsR5JT} Boolean operation result failing edge length interference check, with fuzziness 1e-05 with length 1.91109e-05
+[Warning] {0oQjWtUl5Bvw5kmHzVrilg} No material and surface styles for:
+#885256=IfcDoor('0oQjWtUl5Bvw5kmHzVrilg',#42,'523:1300X2500mm:2093673',$,'523:1300X2500mm',#1991848,#885250,'2093673',2499.99999999998,1300.)
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} 1 duplicate faces removed, 2 loops removed and 0 non-manifold edges for:
+#918724=IfcClosedShell((#918388,#918403,#918412,#918421,#918430,#918439,#918448,#918457,#918466,#918475,#918484,#918493,#918502,#918515,#918526,#918539,#918546,#918555,#918562,#918599,#918604,#918611,#918616,#918623,#918630,#918635,#918640,#918645,#918650,...
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Triangulating face boundaries for face
+#918539=IfcFace((#918538))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face boundary loop not included
+#918608=IfcPolyLoop((#918606,#918528,#918367,#918365))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face with no boundaries
+#918611=IfcFace((#918610))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Failed to convert face:
+#918611=IfcFace((#918610))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face boundary loop not included
+#918613=IfcPolyLoop((#918528,#918606,#918530))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face with no boundaries
+#918616=IfcFace((#918615))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Failed to convert face:
+#918616=IfcFace((#918615))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Triangulating face boundaries for face
+#918717=IfcFace((#918716))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face boundary loop not included
+#918719=IfcPolyLoop((#918541,#918504,#918373,#918371))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Face with no boundaries
+#918722=IfcFace((#918721))
+[Warning] {2vOs_XIO58vuOJtiMyXQYN} Failed to convert face:
+#918722=IfcFace((#918721))
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#920978=IfcClosedShell((#920753,#920814,#920823,#920830,#920837,#920844,#920851,#920856,#920861,#920866,#920871,#920876,#920881,#920886,#920891,#920896,#920901,#920906,#920911,#920916,#920921,#920926,#920931,#920936,#920941,#920946,#920951,#920956,#920961,...
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} Triangulating face boundaries for face
+#920856=IfcFace((#920855))
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} Face boundary loop not included
+#920883=IfcPolyLoop((#920746,#920767,#920765,#920748))
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} Face with no boundaries
+#920886=IfcFace((#920885))
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} Failed to convert face:
+#920886=IfcFace((#920885))
+[Warning] {0votQQ$21AsOkeQ6DGrbNX} Triangulating face boundaries for face
+#920891=IfcFace((#920890))
+[Warning] {0votQQ$21AsOkeQ6DGrb59} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#921337=IfcClosedShell((#921084,#921153,#921162,#921169,#921176,#921183,#921190,#921195,#921200,#921205,#921210,#921215,#921220,#921225,#921230,#921235,#921240,#921245,#921250,#921255,#921260,#921265,#921270,#921275,#921280,#921285,#921290,#921295,#921300,...
+[Warning] {0votQQ$21AsOkeQ6DGrb59} Triangulating face boundaries for face
+#921195=IfcFace((#921194))
+[Warning] {0votQQ$21AsOkeQ6DGrb59} Face boundary loop not included
+#921222=IfcPolyLoop((#921077,#921098,#921096,#921079))
+[Warning] {0votQQ$21AsOkeQ6DGrb59} Face with no boundaries
+#921225=IfcFace((#921224))
+[Warning] {0votQQ$21AsOkeQ6DGrb59} Failed to convert face:
+#921225=IfcFace((#921224))
+[Warning] {0votQQ$21AsOkeQ6DGrb59} Triangulating face boundaries for face
+#921230=IfcFace((#921229))
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#923873=IfcClosedShell((#923620,#923689,#923698,#923705,#923712,#923719,#923726,#923731,#923736,#923741,#923746,#923751,#923756,#923761,#923766,#923771,#923776,#923781,#923786,#923791,#923796,#923801,#923806,#923811,#923816,#923821,#923826,#923831,#923836,...
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} Triangulating face boundaries for face
+#923731=IfcFace((#923730))
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} Face boundary loop not included
+#923758=IfcPolyLoop((#923613,#923634,#923632,#923615))
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} Face with no boundaries
+#923761=IfcFace((#923760))
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} Failed to convert face:
+#923761=IfcFace((#923760))
+[Warning] {0PXnG8nXP9JgrTQlGFmCp3} Triangulating face boundaries for face
+#923766=IfcFace((#923765))
+[Warning] {1FxfF3YLvAMxsJ4dV8TPq6} Halfspace subtraction yields unchanged volume:
+#927099=IfcBooleanClippingResult(.DIFFERENCE.,#927093,#927098)
+[Warning] {1FxfF3YLvAMxsJ4dV8TPq6} Subtraction yields unchanged volume:
+#927099=IfcBooleanClippingResult(.DIFFERENCE.,#927093,#927098)
+[Warning] {2mRoe$tNz7a8POu7jk1Ps8} Subtraction yields unchanged volume:
+#991172=IfcBooleanClippingResult(.DIFFERENCE.,#991162,#991171)
+[Warning] {2mRoe$tNz7a8POu7jk1Po6} Subtraction yields unchanged volume:
+#991275=IfcBooleanClippingResult(.DIFFERENCE.,#991265,#991274)
+[Notice] {2ZJi4dGzX1vRMGKTgWQH5G} Boolean operation result failing face-face interference check, with fuzziness 1e-05 with length 2.87171e-05
+[Warning] {3UESV7z2P77vB$huaPZR$2} Halfspace subtraction yields unchanged volume:
+#1100109=IfcBooleanClippingResult(.DIFFERENCE.,#1100103,#1100108)
+[Warning] {3UESV7z2P77vB$huaPZR$2} Subtraction yields unchanged volume:
+#1100109=IfcBooleanClippingResult(.DIFFERENCE.,#1100103,#1100108)
+[Warning] {0YFG5T$Y97audJ2TP7XShl} No material and surface styles for:
+#1170864=IfcBuildingElementProxy('0YFG5T$Y97audJ2TP7XShl',#42,'PV Bracket:E20/X21_05 degrees:4983889',$,'PV Bracket:E20/X21_05 degrees',#1170863,#1170858,'4983889',$)
+[Warning] {0YFG5T$Y97audJ2TP7XSq6} No material and surface styles for:
+#1171648=IfcBuildingElementProxy('0YFG5T$Y97audJ2TP7XSq6',#42,'PV Bracket:E20/X21_05 degrees:4983890',$,'PV Bracket:E20/X21_05 degrees',#1171647,#1171642,'4983890',$)
+[Warning] {2$jxQrQT1EM94TbRxLcxQq} Subtraction yields unchanged volume:
+#1223102=IfcBooleanClippingResult(.DIFFERENCE.,#1223085,#1223101)
+[Warning] {2$jxQrQT1EM94TbRxLcwkk} Subtraction yields unchanged volume:
+#1223204=IfcBooleanClippingResult(.DIFFERENCE.,#1223187,#1223203)
+[Warning] {2$jxQrQT1EM94TbRxLcwgG} Subtraction yields unchanged volume:
+#1223277=IfcBooleanClippingResult(.DIFFERENCE.,#1223260,#1223276)
+[Warning] {2$jxQrQT1EM94TbRxLcwhB} Subtraction yields unchanged volume:
+#1223350=IfcBooleanClippingResult(.DIFFERENCE.,#1223333,#1223349)
+[Warning] {2$jxQrQT1EM94TbRxLcwbE} Subtraction yields unchanged volume:
+#1223423=IfcBooleanClippingResult(.DIFFERENCE.,#1223406,#1223422)
+[Warning] {2$jxQrQT1EM94TbRxLcwWA} Subtraction yields unchanged volume:
+#1223496=IfcBooleanClippingResult(.DIFFERENCE.,#1223479,#1223495)
+[Warning] {2jcmv$E0fAYRQDUDwdLlGS} Subtraction yields unchanged volume:
+#1227920=IfcBooleanClippingResult(.DIFFERENCE.,#1227910,#1227919)
+[Warning] {2jcmv$E0fAYRQDUDwdLiZ7} Subtraction yields unchanged volume:
+#1228093=IfcBooleanClippingResult(.DIFFERENCE.,#1228083,#1228092)
+[Warning] {2jcmv$E0fAYRQDUDwdLiXi} Halfspace subtraction yields unchanged volume:
+#1228175=IfcBooleanClippingResult(.DIFFERENCE.,#1228169,#1228174)
+[Warning] {2jcmv$E0fAYRQDUDwdLiXi} Subtraction yields unchanged volume:
+#1228175=IfcBooleanClippingResult(.DIFFERENCE.,#1228169,#1228174)
+[Warning] {2jcmv$E0fAYRQDUDwdLiXR} Subtraction yields unchanged volume:
+#1228321=IfcBooleanClippingResult(.DIFFERENCE.,#1228311,#1228320)
+[Warning] {2jcmv$E0fAYRQDUDwdLi_x} Subtraction yields unchanged volume:
+#1228909=IfcBooleanClippingResult(.DIFFERENCE.,#1228899,#1228908)
+[Warning] {20j8GE$0nC1AvruMVUE6i5} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#1243557=IfcClosedShell((#1243346,#1243403,#1243412,#1243419,#1243426,#1243433,#1243440,#1243445,#1243450,#1243455,#1243460,#1243465,#1243470,#1243475,#1243480,#1243485,#1243490,#1243495,#1243500,#1243505,#1243510,#1243515,#1243520,#1243525,#1243530,#12435...
+[Warning] {20j8GE$0nC1AvruMVUE6i5} Triangulating face boundaries for face
+#1243445=IfcFace((#1243444))
+[Warning] {20j8GE$0nC1AvruMVUE6i5} Face boundary loop not included
+#1243472=IfcPolyLoop((#1243299,#1243297,#1243390,#1243388))
+[Warning] {20j8GE$0nC1AvruMVUE6i5} Face with no boundaries
+#1243475=IfcFace((#1243474))
+[Warning] {20j8GE$0nC1AvruMVUE6i5} Failed to convert face:
+#1243475=IfcFace((#1243474))
+[Warning] {20j8GE$0nC1AvruMVUE6i5} Triangulating face boundaries for face
+#1243480=IfcFace((#1243479))
+[Warning] {20j8GE$0nC1AvruMVUE6i4} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#1243894=IfcClosedShell((#1243655,#1243720,#1243729,#1243736,#1243743,#1243750,#1243757,#1243762,#1243767,#1243772,#1243777,#1243782,#1243787,#1243792,#1243797,#1243802,#1243807,#1243812,#1243817,#1243822,#1243827,#1243832,#1243837,#1243842,#1243847,#12438...
+[Warning] {20j8GE$0nC1AvruMVUE6i4} Triangulating face boundaries for face
+#1243762=IfcFace((#1243761))
+[Warning] {20j8GE$0nC1AvruMVUE6i4} Face boundary loop not included
+#1243789=IfcPolyLoop((#1243600,#1243598,#1243707,#1243705))
+[Warning] {20j8GE$0nC1AvruMVUE6i4} Face with no boundaries
+#1243792=IfcFace((#1243791))
+[Warning] {20j8GE$0nC1AvruMVUE6i4} Failed to convert face:
+#1243792=IfcFace((#1243791))
+[Warning] {20j8GE$0nC1AvruMVUE6i4} Triangulating face boundaries for face
+#1243797=IfcFace((#1243796))
+[Warning] {20j8GE$0nC1AvruMVUE6i7} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#1244231=IfcClosedShell((#1243992,#1244057,#1244066,#1244073,#1244080,#1244087,#1244094,#1244099,#1244104,#1244109,#1244114,#1244119,#1244124,#1244129,#1244134,#1244139,#1244144,#1244149,#1244154,#1244159,#1244164,#1244169,#1244174,#1244179,#1244184,#12441...
+[Warning] {20j8GE$0nC1AvruMVUE6i7} Triangulating face boundaries for face
+#1244099=IfcFace((#1244098))
+[Warning] {20j8GE$0nC1AvruMVUE6i7} Face boundary loop not included
+#1244126=IfcPolyLoop((#1243937,#1243935,#1244044,#1244042))
+[Warning] {20j8GE$0nC1AvruMVUE6i7} Face with no boundaries
+#1244129=IfcFace((#1244128))
+[Warning] {20j8GE$0nC1AvruMVUE6i7} Failed to convert face:
+#1244129=IfcFace((#1244128))
+[Warning] {20j8GE$0nC1AvruMVUE6i7} Triangulating face boundaries for face
+#1244134=IfcFace((#1244133))
+[Warning] {20j8GE$0nC1AvruMVUE6i1} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#1244869=IfcClosedShell((#1244630,#1244695,#1244704,#1244711,#1244718,#1244725,#1244732,#1244737,#1244742,#1244747,#1244752,#1244757,#1244762,#1244767,#1244772,#1244777,#1244782,#1244787,#1244792,#1244797,#1244802,#1244807,#1244812,#1244817,#1244822,#12448...
+[Warning] {20j8GE$0nC1AvruMVUE6i1} Triangulating face boundaries for face
+#1244737=IfcFace((#1244736))
+[Warning] {20j8GE$0nC1AvruMVUE6i1} Face boundary loop not included
+#1244764=IfcPolyLoop((#1244575,#1244573,#1244682,#1244680))
+[Warning] {20j8GE$0nC1AvruMVUE6i1} Face with no boundaries
+#1244767=IfcFace((#1244766))
+[Warning] {20j8GE$0nC1AvruMVUE6i1} Failed to convert face:
+#1244767=IfcFace((#1244766))
+[Warning] {20j8GE$0nC1AvruMVUE6i1} Triangulating face boundaries for face
+#1244772=IfcFace((#1244771))
+[Warning] {20j8GE$0nC1AvruMVUE6iD} 0 duplicate faces removed, 1 loops removed and 0 non-manifold edges for:
+#1246109=IfcClosedShell((#1245870,#1245935,#1245944,#1245951,#1245958,#1245965,#1245972,#1245977,#1245982,#1245987,#1245992,#1245997,#1246002,#1246007,#1246012,#1246017,#1246022,#1246027,#1246032,#1246037,#1246042,#1246047,#1246052,#1246057,#1246062,#12460...
+[Warning] {20j8GE$0nC1AvruMVUE6iD} Triangulating face boundaries for face
+#1245977=IfcFace((#1245976))
+[Warning] {20j8GE$0nC1AvruMVUE6iD} Face boundary loop not included
+#1246004=IfcPolyLoop((#1245815,#1245813,#1245922,#1245920))
+[Warning] {20j8GE$0nC1AvruMVUE6iD} Face with no boundaries
+#1246007=IfcFace((#1246006))
+[Warning] {20j8GE$0nC1AvruMVUE6iD} Failed to convert face:
+#1246007=IfcFace((#1246006))
+[Warning] {20j8GE$0nC1AvruMVUE6iD} Triangulating face boundaries for face
+#1246012=IfcFace((#1246011))
+[Warning] {0XlH_f2Gv2ovvpu1OjECuH} Halfspace subtraction yields unchanged volume:
+#1287685=IfcBooleanClippingResult(.DIFFERENCE.,#1287679,#1287684)
+[Warning] {0XlH_f2Gv2ovvpu1OjECuH} Subtraction yields unchanged volume:
+#1287685=IfcBooleanClippingResult(.DIFFERENCE.,#1287679,#1287684)
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Self-intersections with 2 cycles detected
+#1349045=IfcPolyLoop((#1349021,#1349023,#1349025,#1349027,#1349029,#1349031,#1349033,#1349035,#1349037,#1349039,#1349041,#1349043))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Degenerate face:
+#1349048=IfcFace((#1349047))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Self-intersections with 2 cycles detected
+#1349846=IfcPolyLoop((#1349667,#1349641,#1349844,#1349665))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Degenerate face:
+#1349849=IfcFace((#1349848))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Face boundary loop not included
+#1350011=IfcPolyLoop((#1349696,#1349698,#1349694))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Face with no boundaries
+#1350014=IfcFace((#1350013))
+[Warning] {18hvI$KwXCUBuoXHPFR9hq} Failed to convert face:
+#1350014=IfcFace((#1350013))
+[Warning] {2hRY4rxsDA2xjFJpq7jmtN} Subtraction yields unchanged volume:
+#1431306=IfcBooleanClippingResult(.DIFFERENCE.,#1431241,#1431305)
+[Warning] {2hRY4rxsDA2xjFJpq7jmzn} Subtraction yields unchanged volume:
+#1431472=IfcBooleanClippingResult(.DIFFERENCE.,#1431453,#1431471)
+[Warning] {2hRY4rxsDA2xjFJpq7jmYC} Subtraction yields unchanged volume:
+#1431613=IfcBooleanClippingResult(.DIFFERENCE.,#1431528,#1431612)
+[Warning] {2hRY4rxsDA2xjFJpq7jmbZ} Subtraction yields unchanged volume:
+#1431802=IfcBooleanClippingResult(.DIFFERENCE.,#1431669,#1431801)
+[Warning] {2hRY4rxsDA2xjFJpq7jmeq} Subtraction yields unchanged volume:
+#1431921=IfcBooleanClippingResult(.DIFFERENCE.,#1431858,#1431920)
+[Warning] {2hRY4rxsDA2xjFJpq7jmlT} Subtraction yields unchanged volume:
+#1431996=IfcBooleanClippingResult(.DIFFERENCE.,#1431977,#1431995)
+[Warning] {2hRY4rxsDA2xjFJpq7jmjF} Subtraction yields unchanged volume:
+#1432105=IfcBooleanClippingResult(.DIFFERENCE.,#1432052,#1432104)
+[Warning] {2hRY4rxsDA2xjFJpq7jpOY} Subtraction yields unchanged volume:
+#1432182=IfcBooleanClippingResult(.DIFFERENCE.,#1432161,#1432181)
+[Warning] {2hRY4rxsDA2xjFJpq7jpPj} Subtraction yields unchanged volume:
+#1432272=IfcBooleanClippingResult(.DIFFERENCE.,#1432255,#1432271)
+[Warning] {1qASUzOYHDefuoK_AFsZEr} Subtraction yields unchanged volume:
+#1496401=IfcBooleanClippingResult(.DIFFERENCE.,#1496393,#1496400)
+[Warning] {1qASUzOYHDefuoK_AFsYjc} Subtraction yields unchanged volume:
+#1496861=IfcBooleanClippingResult(.DIFFERENCE.,#1496853,#1496860)
+[Warning] {1qASUzOYHDefuoK_AFsYDe} Subtraction yields unchanged volume:
+#1497194=IfcBooleanClippingResult(.DIFFERENCE.,#1497186,#1497193)
+[Warning] {1qASUzOYHDefuoK_AFsjjT} Subtraction yields unchanged volume:
+#1498029=IfcBooleanClippingResult(.DIFFERENCE.,#1498019,#1498028)
+[Warning] {0OmiQQZCD9h85FOXgs$B4R} Subtraction yields unchanged volume:
+#1499530=IfcBooleanClippingResult(.DIFFERENCE.,#1499522,#1499529)
+[Warning] {1VhO3TdBz0ThXGkfwdtuz0} Subtraction yields unchanged volume:
+#1504747=IfcBooleanClippingResult(.DIFFERENCE.,#1504737,#1504746)
+[Warning] {1VhO3TdBz0ThXGkfwdtuyS} Subtraction yields unchanged volume:
+#1504848=IfcBooleanClippingResult(.DIFFERENCE.,#1504838,#1504847)
+[Warning] {3ifnkNBs15th3u6zChhpI6} No material and surface styles for:
+#1504935=IfcBuildingElementProxy('3ifnkNBs15th3u6zChhpI6',#42,'Terrace Service Post:Terrace Service Post:5595632',$,'Terrace Service Post:Terrace Service Post',#1504934,#1504929,'5595632',$)
+[Warning] {3ifnkNBs15th3u6zChhpSc} No material and surface styles for:
+#1504993=IfcBuildingElementProxy('3ifnkNBs15th3u6zChhpSc',#42,'Terrace Service Post:Terrace Service Post:5595728',$,'Terrace Service Post:Terrace Service Post',#1504992,#1504987,'5595728',$)
+[Warning] {3ifnkNBs15th3u6zChhpUs} No material and surface styles for:
+#1505050=IfcBuildingElementProxy('3ifnkNBs15th3u6zChhpUs',#42,'Terrace Service Post:Terrace Service Post:5595840',$,'Terrace Service Post:Terrace Service Post',#1505049,#1505044,'5595840',$)
+[Warning] {2u9J1sGkH29ecmkl6QMGZt} No material and surface styles for:
+#1523425=IfcBuildingElementProxy('2u9J1sGkH29ecmkl6QMGZt',#42,'Terrace Service Post:Terrace Service Post:5673646',$,'Terrace Service Post:Terrace Service Post',#1523424,#1523419,'5673646',$)
+[Warning] {2u9J1sGkH29ecmkl6QMGWc} No material and surface styles for:
+#1523482=IfcBuildingElementProxy('2u9J1sGkH29ecmkl6QMGWc',#42,'Terrace Service Post:Terrace Service Post:5673648',$,'Terrace Service Post:Terrace Service Post',#1523481,#1523476,'5673648',$)
+[Warning] {3pW30Le4172hOmaoH74k91} Subtraction yields unchanged volume:
+#1526282=IfcBooleanClippingResult(.DIFFERENCE.,#1526195,#1526281)
+[Warning] {3pW30Le4172hOmaoH74kCm} Subtraction yields unchanged volume:
+#1526357=IfcBooleanClippingResult(.DIFFERENCE.,#1526338,#1526356)
+[Warning] {3pW30Le4172hOmaoH74k0S} Subtraction yields unchanged volume:
+#1526432=IfcBooleanClippingResult(.DIFFERENCE.,#1526413,#1526431)
+[Warning] {3pW30Le4172hOmaoH74k1t} Subtraction yields unchanged volume:
+#1526638=IfcBooleanClippingResult(.DIFFERENCE.,#1526621,#1526637)
+[Warning] {3pW30Le4172hOmaoH74k3u} Subtraction yields unchanged volume:
+#1526715=IfcBooleanClippingResult(.DIFFERENCE.,#1526694,#1526714)
+[Warning] {3pW30Le4172hOmaoH74k48} Subtraction yields unchanged volume:
+#1526814=IfcBooleanClippingResult(.DIFFERENCE.,#1526771,#1526813)
+[Warning] {3pW30Le4172hOmaoH74k58} Subtraction yields unchanged volume:
+#1526889=IfcBooleanClippingResult(.DIFFERENCE.,#1526870,#1526888)
+[Warning] {3pW30Le4172hOmaoH74k5k} Subtraction yields unchanged volume:
+#1526964=IfcBooleanClippingResult(.DIFFERENCE.,#1526945,#1526963)
+[Warning] {3pW30Le4172hOmaoH74lzP} Subtraction yields unchanged volume:
+#1527081=IfcBooleanClippingResult(.DIFFERENCE.,#1527020,#1527080)
+[Warning] {2nEbcwG29CPxT$OYO3wPbG} Subtraction yields unchanged volume:
+#1584156=IfcBooleanClippingResult(.DIFFERENCE.,#1584085,#1584155)
+[Warning] {2nEbcwG29CPxT$OYO3wPX5} Subtraction yields unchanged volume:
+#1584231=IfcBooleanClippingResult(.DIFFERENCE.,#1584212,#1584230)
+[Warning] {2nEbcwG29CPxT$OYO3wPWR} Subtraction yields unchanged volume:
+#1584322=IfcBooleanClippingResult(.DIFFERENCE.,#1584287,#1584321)
+[Warning] {2nEbcwG29CPxT$OYO3wPZm} Subtraction yields unchanged volume:
+#1584397=IfcBooleanClippingResult(.DIFFERENCE.,#1584378,#1584396)
+[Warning] {2nEbcwG29CPxT$OYO3wPZ5} Subtraction yields unchanged volume:
+#1584488=IfcBooleanClippingResult(.DIFFERENCE.,#1584453,#1584487)
+[Warning] {2nEbcwG29CPxT$OYO3wPY9} Subtraction yields unchanged volume:
+#1584563=IfcBooleanClippingResult(.DIFFERENCE.,#1584544,#1584562)
+[Warning] {2nEbcwG29CPxT$OYO3wPjF} Subtraction yields unchanged volume:
+#1584705=IfcBooleanClippingResult(.DIFFERENCE.,#1584688,#1584704)
+[Warning] {2XlruOLH9DQOc9Rh$qdit6} Subtraction yields unchanged volume:
+#1585245=IfcBooleanClippingResult(.DIFFERENCE.,#1585228,#1585244)
+[Warning] {2XlruOLH9DQOc9Rh$qdisK} Subtraction yields unchanged volume:
+#1585318=IfcBooleanClippingResult(.DIFFERENCE.,#1585301,#1585317)
+[Warning] {2XlruOLH9DQOc9Rh$qdirl} Subtraction yields unchanged volume:
+#1585391=IfcBooleanClippingResult(.DIFFERENCE.,#1585374,#1585390)
+[Warning] {2XlruOLH9DQOc9Rh$qdioc} Subtraction yields unchanged volume:
+#1585466=IfcBooleanClippingResult(.DIFFERENCE.,#1585447,#1585465)
+[Warning] {2XlruOLH9DQOc9Rh$qdinu} Subtraction yields unchanged volume:
+#1585539=IfcBooleanClippingResult(.DIFFERENCE.,#1585522,#1585538)
+[Warning] {2wqcShon587BqRyMAWUVAV} Subtraction yields unchanged volume:
+#1623008=IfcBooleanClippingResult(.DIFFERENCE.,#1622991,#1623007)
+[Warning] {2wqcShon587BqRyMAWUV0f} Subtraction yields unchanged volume:
+#1623106=IfcBooleanClippingResult(.DIFFERENCE.,#1623089,#1623105)
+[Warning] {1kxUDexqXB1QzdC3hB8Bqw} Subtraction yields unchanged volume:
+#1641743=IfcBooleanClippingResult(.DIFFERENCE.,#1641722,#1641742)
+[Warning] {0sWeaD1$X6GRr0fRAJJdTc} No material and surface styles for:
+#1666623=IfcDoor('0sWeaD1$X6GRr0fRAJJdTc',#42,'523:1200X2700mm:6139518',$,'523:1200X2700mm',#1994116,#1666617,'6139518',2699.99999999804,1200.)
+[Warning] {35frDnRPD3OumZ8i$UaQD3} 0 duplicate faces removed, 0 loops removed and 2 non-manifold edges for:
+#1684554=IfcClosedShell((#1681813,#1681822,#1681829,#1681842,#1681867,#1681876,#1681887,#1681896,#1681907,#1681916,#1681927,#1681936,#1681947,#1681956,#1681967,#1681976,#1681987,#1681996,#1682007,#1682032,#1682049,#1682060,#1682069,#1682074,#1682105,#16821...
+[Warning] {35frDnRPD3OumZ8i$UaQD3} Self-intersections with 4 cycles detected
+#1683251=IfcPolyLoop((#1682707,#1682986,#1682995,#1683004,#1683013,#1683022,#1683031,#1683040,#1683049,#1683058,#1683067,#1683076,#1682733,#1682731,#1683092,#1682729,#1682727,#1683110,#1682725,#1682723,#1683128,#1682721,#1682719,#1683146,#1682717,#1682715,...
+[Warning] {35frDnRPD3OumZ8i$UaQD3} Self-intersections with 2 cycles detected
+#1683276=IfcPolyLoop((#1682664,#1682698,#1682823,#1682832,#1682841,#1682850,#1682859,#1682868,#1682877,#1682886,#1682895,#1682904,#1682677,#1682236,#1682462,#1682238,#1682242,#1682446,#1682244,#1682248,#1682430,#1682250,#1682254,#1682414,#1682256,#1682260,...
+[Warning] {35frDnRPD3OumZ8i$UaQD3} Degenerate face:
+#1683279=IfcFace((#1683278))
+[Warning] {35frDnRPD3OumZ8i$UaQD3} Self-intersections with 3 cycles detected
+#1683311=IfcPolyLoop((#1682915,#1682906,#1682897,#1682888,#1682879,#1682870,#1682861,#1682852,#1682843,#1682834,#1682825,#1682700,#1682384,#1682343,#1682341,#1682382,#1682380,#1682400,#1682378,#1682376,#1682416,#1682374,#1682372,#1682432,#1682370,#1682368,...
+[Warning] {35frDnRPD3OumZ8i$UaQD3} Self-intersections with 4 cycles detected
+#1683336=IfcPolyLoop((#1682764,#1683078,#1683069,#1683060,#1683051,#1683042,#1683033,#1683024,#1683015,#1683006,#1682997,#1682988,#1682577,#1682575,#1683180,#1682573,#1682571,#1683162,#1682569,#1682567,#1683144,#1682565,#1682563,#1683126,#1682561,#1682559,...
+[Warning] {35frDnRPD3OumZ8i$UaW5Y} No material and surface styles for:
+#1687117=IfcFurnishingElement('35frDnRPD3OumZ8i$UaW5Y',#42,'Stair Monolithic_TE-02 Top_Finish:Stair Monolithic_TE-02 Top_Finish:6184669',$,'Stair Monolithic_TE-02 Top_Finish:Stair Monolithic_TE-02 Top_Finish',#1687116,#1687111,'6184669')
+[Warning] {35frDnRPD3OumZ8i$UaiqG} No material and surface styles for:
+#1687347=IfcFurnishingElement('35frDnRPD3OumZ8i$UaiqG',#42,'Stair Monolithic_TE-02_Finish:Stair Monolithic_TE-02_Finish:6199078',$,'Stair Monolithic_TE-02_Finish:Stair Monolithic_TE-02_Finish',#1687346,#1687341,'6199078')
+[Warning] {35frDnRPD3OumZ8i$UaeYV} No material and surface styles for:
+#1687642=IfcFurnishingElement('35frDnRPD3OumZ8i$UaeYV',#42,'Stair Monolithic_TE-02 Bottom_Finish:Stair Monolithic_TE-02 Bottom_Finish:6214313',$,'Stair Monolithic_TE-02 Bottom_Finish:Stair Monolithic_TE-02 Bottom_Finish',#1687641,#1687636,'6214313')
+[Warning] {3JFjQroeLFXOM37alwKq$k} No material and surface styles for:
+#1687853=IfcFurnishingElement('3JFjQroeLFXOM37alwKq$k',#42,'Stair Monolithic_TE-03 Bottom_Finish:Stair Monolithic_TE-03 Bottom_Finish:6229782',$,'Stair Monolithic_TE-03 Bottom_Finish:Stair Monolithic_TE-03 Bottom_Finish',#1687852,#1687847,'6229782')
+[Warning] {3JFjQroeLFXOM37alwKwEe} No material and surface styles for:
+#1688024=IfcFurnishingElement('3JFjQroeLFXOM37alwKwEe',#42,'Stair Monolithic_TE-03 Top_Finish:Stair Monolithic_TE-03 Top_Finish:6284112',$,'Stair Monolithic_TE-03 Top_Finish:Stair Monolithic_TE-03 Top_Finish',#1688023,#1688018,'6284112')
+[Warning] {3JFjQroeLFXOM37alwR5zK} No material and surface styles for:
+#1688252=IfcFurnishingElement('3JFjQroeLFXOM37alwR5zK',#42,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish:6299564',$,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish',#1688251,#1688246,'6299564')
+[Warning] {3JFjQroeLFXOM37alwR5y7} No material and surface styles for:
+#1688423=IfcFurnishingElement('3JFjQroeLFXOM37alwR5y7',#42,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish:6299647',$,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish',#1688422,#1688417,'6299647')
+[Warning] {3JFjQroeLFXOM37alwR62m} No material and surface styles for:
+#1688593=IfcFurnishingElement('3JFjQroeLFXOM37alwR62m',#42,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish:6299720',$,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish',#1688592,#1688587,'6299720')
+[Warning] {3JFjQroeLFXOM37alwR61f} No material and surface styles for:
+#1688763=IfcFurnishingElement('3JFjQroeLFXOM37alwR61f',#42,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish:6299793',$,'Stair Monolithic_TE-03_Finish:Stair Monolithic_TE-03_Finish',#1688762,#1688757,'6299793')
+[Warning] {3L9t84DJX0TehJQb0Jtba$} No material and surface styles for:
+#1735623=IfcColumn('3L9t84DJX0TehJQb0Jtba$',#42,'Facade:Corner 110 x 240:6393336',$,'Facade:Corner 110 x 240',#1735622,#1735617,'6393336')
+[Warning] {0krijilnn0AOEaJBAHGV3T} No material and surface styles for:
+#1739246=IfcBuildingElementProxy('0krijilnn0AOEaJBAHGV3T',#42,'Bulkhead Cladding L-shape:780 x 279:6498535',$,'Bulkhead Cladding L-shape:780 x 279',#1739245,#1739240,'6498535',$)
+[Warning] {0krijilnn0AOEaJBAHGV3U} No material and surface styles for:
+#1739361=IfcBuildingElementProxy('0krijilnn0AOEaJBAHGV3U',#42,'Bulkhead Cladding L-shape:780 x 247:6498536',$,'Bulkhead Cladding L-shape:780 x 247',#1739360,#1739355,'6498536',$)
+[Warning] {0krijilnn0AOEaJBAHGV3V} No material and surface styles for:
+#1739476=IfcBuildingElementProxy('0krijilnn0AOEaJBAHGV3V',#42,'Bulkhead Cladding L-shape:780 x 199:6498537',$,'Bulkhead Cladding L-shape:780 x 199',#1739475,#1739470,'6498537',$)
+[Warning] {0krijilnn0AOEaJBAHGV3O} No material and surface styles for:
+#1739591=IfcBuildingElementProxy('0krijilnn0AOEaJBAHGV3O',#42,'Bulkhead Cladding L-shape:780 x 199:6498538',$,'Bulkhead Cladding L-shape:780 x 199',#1739590,#1739585,'6498538',$)
+[Warning] {28$5qlhN1AQO9vc8FFzqCU} No material and surface styles for:
+#1748176=IfcDoor('28$5qlhN1AQO9vc8FFzqCU',#42,'523:1500X2700:6500354',$,'523:1500X2700',#1995802,#1748170,'6500354',2699.99999999804,1500.00000000001)
+[Warning] {2ghJEhuCP3YhKr$96R6EPS} No material and surface styles for:
+#1748283=IfcDoor('2ghJEhuCP3YhKr$96R6EPS',#42,'523:1300X3160mm:6518352',$,'523:1300X3160mm',#1999644,#1748277,'6518352',3159.99999999804,1300.)
+[Warning] {31lzfc6tb35AmONsS27kdB} No material and surface styles for:
+#1748334=IfcDoor('31lzfc6tb35AmONsS27kdB',#42,'523:900X3160mm:6518354',$,'523:900X3160mm',#1999670,#1748328,'6518354',3159.99999999804,900.000000000003)
+[Warning] {3NswBtG9L2iRvklCo3NAzH} No material and surface styles for:
+#1806527=IfcBuildingElementProxy('3NswBtG9L2iRvklCo3NAzH',#42,'L6 Void_sliding track:L_7815:6822840',$,'L6 Void_sliding track:L_7815',#1806526,#1806521,'6822840',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEXG} No material and surface styles for:
+#1808098=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEXG',#42,'RL.3_Monorail Hanger:RL.3_Monorail Hanger:6826039',$,'RL.3_Monorail Hanger:RL.3_Monorail Hanger',#1808097,#1808092,'6826039',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWd} No material and surface styles for:
+#1808156=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWd',#42,'RL.3_Monorail Hanger1:RL.3_Monorail Hanger:6826048',$,'RL.3_Monorail Hanger1:RL.3_Monorail Hanger',#1808155,#1808150,'6826048',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWk} No material and surface styles for:
+#1808213=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWk',#42,'RL.3_Monorail Hanger2:RL.3_Monorail Hanger:6826057',$,'RL.3_Monorail Hanger2:RL.3_Monorail Hanger',#1808212,#1808207,'6826057',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWr} No material and surface styles for:
+#1808270=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWr',#42,'RL.3_Monorail Hanger3:RL.3_Monorail Hanger:6826066',$,'RL.3_Monorail Hanger3:RL.3_Monorail Hanger',#1808269,#1808264,'6826066',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWy} No material and surface styles for:
+#1808327=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWy',#42,'RL.3_Monorail Hanger4:RL.3_Monorail Hanger:6826075',$,'RL.3_Monorail Hanger4:RL.3_Monorail Hanger',#1808326,#1808321,'6826075',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEW3} No material and surface styles for:
+#1808384=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEW3',#42,'RL.3_Monorail Hanger5:RL.3_Monorail Hanger:6826084',$,'RL.3_Monorail Hanger5:RL.3_Monorail Hanger',#1808383,#1808378,'6826084',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWA} No material and surface styles for:
+#1808441=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWA',#42,'RL.3_Monorail Hanger6:RL.3_Monorail Hanger:6826093',$,'RL.3_Monorail Hanger6:RL.3_Monorail Hanger',#1808440,#1808435,'6826093',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEWH} No material and surface styles for:
+#1808498=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEWH',#42,'RL.3_Monorail Hanger7:RL.3_Monorail Hanger:6826102',$,'RL.3_Monorail Hanger7:RL.3_Monorail Hanger',#1808497,#1808492,'6826102',$)
+[Warning] {2yzYS2oVfC9vZUEtawOEYb} No material and surface styles for:
+#1809210=IfcBuildingElementProxy('2yzYS2oVfC9vZUEtawOEYb',#42,'Abseil_C track trolley:Abseil_C track trolley:6826178',$,'Abseil_C track trolley:Abseil_C track trolley',#1809209,#1809204,'6826178',$)
+[Warning] {1V6zWT35z9cuL_qMYQjC1q} Halfspace subtraction yields unchanged volume:
+#1811397=IfcBooleanClippingResult(.DIFFERENCE.,#1811391,#1811396)
+[Warning] {1V6zWT35z9cuL_qMYQjC1q} Subtraction yields unchanged volume:
+#1811397=IfcBooleanClippingResult(.DIFFERENCE.,#1811391,#1811396)
+[Warning] {20CzFE9jTBhxGpMhaxU77U} Halfspace subtraction yields unchanged volume:
+#1822618=IfcBooleanClippingResult(.DIFFERENCE.,#1822612,#1822617)
+[Warning] {20CzFE9jTBhxGpMhaxU77U} Subtraction yields unchanged volume:
+#1822618=IfcBooleanClippingResult(.DIFFERENCE.,#1822612,#1822617)
+[Warning] {20CzFE9jTBhxGpMhaxU7z$} Halfspace subtraction yields unchanged volume:
+#1822680=IfcBooleanClippingResult(.DIFFERENCE.,#1822674,#1822679)
+[Warning] {20CzFE9jTBhxGpMhaxU7z$} Subtraction yields unchanged volume:
+#1822680=IfcBooleanClippingResult(.DIFFERENCE.,#1822674,#1822679)
+[Warning] {20CzFE9jTBhxGpMhaxU7hv} Halfspace subtraction yields unchanged volume:
+#1822769=IfcBooleanClippingResult(.DIFFERENCE.,#1822763,#1822768)
+[Warning] {20CzFE9jTBhxGpMhaxU7hv} Subtraction yields unchanged volume:
+#1822769=IfcBooleanClippingResult(.DIFFERENCE.,#1822763,#1822768)
+[Warning] {2PPbtE9UX9jgJSPbYABgs_} Halfspace subtraction yields unchanged volume:
+#1843851=IfcBooleanClippingResult(.DIFFERENCE.,#1843845,#1843850)
+[Warning] {2PPbtE9UX9jgJSPbYABgs_} Subtraction yields unchanged volume:
+#1843851=IfcBooleanClippingResult(.DIFFERENCE.,#1843845,#1843850)
+[Warning] {2PPbtE9UX9jgJSPbYABgjl} Halfspace subtraction yields unchanged volume:
+#1843940=IfcBooleanClippingResult(.DIFFERENCE.,#1843934,#1843939)
+[Warning] {2PPbtE9UX9jgJSPbYABgjl} Subtraction yields unchanged volume:
+#1843940=IfcBooleanClippingResult(.DIFFERENCE.,#1843934,#1843939)
+[Warning] {2PPbtE9UX9jgJSPbYABgcz} Halfspace subtraction yields unchanged volume:
+#1844002=IfcBooleanClippingResult(.DIFFERENCE.,#1843996,#1844001)
+[Warning] {2PPbtE9UX9jgJSPbYABgcz} Subtraction yields unchanged volume:
+#1844002=IfcBooleanClippingResult(.DIFFERENCE.,#1843996,#1844001)
+[Warning] {0B_G3d9e93VvY50OVCdB8L} Halfspace subtraction yields unchanged volume:
+#1859257=IfcBooleanClippingResult(.DIFFERENCE.,#1859251,#1859256)
+[Warning] {0B_G3d9e93VvY50OVCdB8L} Subtraction yields unchanged volume:
+#1859257=IfcBooleanClippingResult(.DIFFERENCE.,#1859251,#1859256)
+[Warning] {36ek$LLPj6_hNTPenGo_FU} No material and surface styles for:
+#1872759=IfcBuildingElementProxy('36ek$LLPj6_hNTPenGo_FU',#42,'T-02 C Profile:T-02 C Profile:8360755',$,'T-02 C Profile:T-02 C Profile',#1872758,#1872753,'8360755',$)
+[Warning] {2iVQgmoL9EseR45VYk98di} No material and surface styles for:
+#1875586=IfcRailing('2iVQgmoL9EseR45VYk98di',#42,'Railing:Facade Gutter:1524483',$,'Railing:Facade Gutter',#1875550,#1875584,'1524483',.NOTDEFINED.)
+[Warning] {0cwoM2wrP8IgCilGQjQhnz} No material and surface styles for:
+#1878935=IfcRailing('0cwoM2wrP8IgCilGQjQhnz',#42,'Railing:200mm Pipe:5368360',$,'Railing:200mm Pipe',#1875613,#1878933,'5368360',.NOTDEFINED.)
+[Warning] {0cwoM2wrP8IgCilGQjQhh_} No material and surface styles for:
+#1879108=IfcRailing('0cwoM2wrP8IgCilGQjQhh_',#42,'Railing:200mm Pipe:5369003',$,'Railing:200mm Pipe',#1878962,#1879106,'5369003',.NOTDEFINED.)
+[Warning] {19$sSzWizEqxxj1yKqmRpx} No material and surface styles for:
+#1879290=IfcRailing('19$sSzWizEqxxj1yKqmRpx',#42,'Railing:200mm Pipe:5369503',$,'Railing:200mm Pipe',#1879134,#1879288,'5369503',.NOTDEFINED.)
+[Warning] {19$sSzWizEqxxj1yKqmRsp} No material and surface styles for:
+#1879462=IfcRailing('19$sSzWizEqxxj1yKqmRsp',#42,'Railing:200mm Pipe:5369815',$,'Railing:200mm Pipe',#1879316,#1879460,'5369815',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KgT} No material and surface styles for:
+#1884103=IfcRailing('1AeMvrYZrEnx0idwGn8KgT',#42,'Railing:Facade Gutter:5868996',$,'Railing:Facade Gutter',#1883880,#1884101,'5868996',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8Khm} No material and surface styles for:
+#1884161=IfcRailing('1AeMvrYZrEnx0idwGn8Khm',#42,'Railing:Facade Gutter:5869004',$,'Railing:Facade Gutter',#1884125,#1884159,'5869004',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8Khj} No material and surface styles for:
+#1884406=IfcRailing('1AeMvrYZrEnx0idwGn8Khj',#42,'Railing:Facade Gutter:5869010',$,'Railing:Facade Gutter',#1884183,#1884404,'5869010',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8Kfq} No material and surface styles for:
+#1884735=IfcRailing('1AeMvrYZrEnx0idwGn8Kfq',#42,'Railing:Facade Gutter:5869020',$,'Railing:Facade Gutter',#1884428,#1884733,'5869020',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KXG} No material and surface styles for:
+#1885064=IfcRailing('1AeMvrYZrEnx0idwGn8KXG',#42,'Railing:Facade Gutter:5869030',$,'Railing:Facade Gutter',#1884757,#1885062,'5869030',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KVb} No material and surface styles for:
+#1885729=IfcRailing('1AeMvrYZrEnx0idwGn8KVb',#42,'Railing:Facade Gutter:5869040',$,'Railing:Facade Gutter',#1885086,#1885727,'5869040',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KRh} No material and surface styles for:
+#1886144=IfcRailing('1AeMvrYZrEnx0idwGn8KRh',#42,'Railing:Facade Gutter:5869060',$,'Railing:Facade Gutter',#1885751,#1886142,'5869060',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KMC} No material and surface styles for:
+#1886475=IfcRailing('1AeMvrYZrEnx0idwGn8KMC',#42,'Railing:Facade Gutter:5869074',$,'Railing:Facade Gutter',#1886166,#1886473,'5869074',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KKH} No material and surface styles for:
+#1886806=IfcRailing('1AeMvrYZrEnx0idwGn8KKH',#42,'Railing:Facade Gutter:5869085',$,'Railing:Facade Gutter',#1886497,#1886804,'5869085',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KI0} No material and surface styles for:
+#1886864=IfcRailing('1AeMvrYZrEnx0idwGn8KI0',#42,'Railing:Facade Gutter:5869112',$,'Railing:Facade Gutter',#1886828,#1886862,'5869112',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KJn} No material and surface styles for:
+#1886922=IfcRailing('1AeMvrYZrEnx0idwGn8KJn',#42,'Railing:Facade Gutter:5869130',$,'Railing:Facade Gutter',#1886886,#1886920,'5869130',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KGJ} No material and surface styles for:
+#1887335=IfcRailing('1AeMvrYZrEnx0idwGn8KGJ',#42,'Railing:Facade Gutter:5869137',$,'Railing:Facade Gutter',#1886944,#1887333,'5869137',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KHY} No material and surface styles for:
+#1887393=IfcRailing('1AeMvrYZrEnx0idwGn8KHY',#42,'Railing:Facade Gutter:5869153',$,'Railing:Facade Gutter',#1887357,#1887391,'5869153',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KF6} No material and surface styles for:
+#1888312=IfcRailing('1AeMvrYZrEnx0idwGn8KF6',#42,'Railing:Facade Gutter:5869161',$,'Railing:Facade Gutter',#1887415,#1888310,'5869161',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KBV} No material and surface styles for:
+#1888557=IfcRailing('1AeMvrYZrEnx0idwGn8KBV',#42,'Railing:Facade Gutter:5869197',$,'Railing:Facade Gutter',#1888334,#1888555,'5869197',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8KBc} No material and surface styles for:
+#1888802=IfcRailing('1AeMvrYZrEnx0idwGn8KBc',#42,'Railing:Facade Gutter:5869207',$,'Railing:Facade Gutter',#1888579,#1888800,'5869207',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8K8V} No material and surface styles for:
+#1889047=IfcRailing('1AeMvrYZrEnx0idwGn8K8V',#42,'Railing:Facade Gutter:5869217',$,'Railing:Facade Gutter',#1888824,#1889045,'5869217',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8K8m} No material and surface styles for:
+#1889376=IfcRailing('1AeMvrYZrEnx0idwGn8K8m',#42,'Railing:Facade Gutter:5869227',$,'Railing:Facade Gutter',#1889069,#1889374,'5869227',.NOTDEFINED.)
+[Warning] {1AeMvrYZrEnx0idwGn8K6G} No material and surface styles for:
+#1889621=IfcRailing('1AeMvrYZrEnx0idwGn8K6G',#42,'Railing:Facade Gutter:5869239',$,'Railing:Facade Gutter',#1889398,#1889619,'5869239',.NOTDEFINED.)
+[Warning] {3L9t84DJX0TehJQb0Jtgvb} No material and surface styles for:
+#1901840=IfcRailing('3L9t84DJX0TehJQb0Jtgvb',#42,'Railing:Facade Gutter:6392762',$,'Railing:Facade Gutter',#1901617,#1901838,'6392762',.NOTDEFINED.)
+
+
+Conversion took 3 minutes 27 seconds

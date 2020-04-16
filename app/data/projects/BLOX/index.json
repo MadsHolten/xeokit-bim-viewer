@@ -1,0 +1,23 @@
+{
+	"id": "BLOX",
+	"name": "BLOX",
+	"models": [
+		{
+			"id": "arkitekt",
+			"name": "Arkitekt"
+		},
+		{
+			"id": "ventilation",
+			"name": "Ventilation"
+		},
+		{
+			"id": "kon",
+			"name": "Kon"
+		}
+	],
+	"viewerContent": {
+		"modelsLoaded": [
+			"arkitekt"
+		]
+	}
+}

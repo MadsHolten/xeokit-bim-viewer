@@ -1,0 +1,10 @@
+## CONVERSION TOOK 15.803 SECONDS ##
+
+Starting conversion. /usr/src/app/static/BLOX/models/kon/geometry.gltf
+Number of objects: 2913
+Only once meshes: 2791
+More than once meshes: 122
+Total mesh instances: 391
+Instancing factor -613.81%
+arrayBuffer takes 5982.353 kB
+Conversion completed. /usr/src/app/static/BLOX/models/kon/geometry.xkt

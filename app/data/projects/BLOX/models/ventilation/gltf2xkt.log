@@ -1,0 +1,10 @@
+## CONVERSION TOOK 23.477 SECONDS ##
+
+Starting conversion. /usr/src/app/static/BLOX/models/ventilation/geometry.gltf
+Number of objects: 8687
+Only once meshes: 7924
+More than once meshes: 763
+Total mesh instances: 5079
+Instancing factor -56.01%
+arrayBuffer takes 8780.122 kB
+Conversion completed. /usr/src/app/static/BLOX/models/ventilation/geometry.xkt
