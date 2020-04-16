@@ -1,0 +1,23 @@
+{
+	"id": "10406305",
+	"name": "10406305",
+	"models": [
+		{
+			"id": "arkitekt",
+			"name": "Arkitekt"
+		},
+		{
+			"id": "kon",
+			"name": "Kon"
+		},
+		{
+			"id": "el",
+			"name": "EL"
+		}
+	],
+	"viewerContent": {
+		"modelsLoaded": [
+			"arkitekt"
+		]
+	}
+}
